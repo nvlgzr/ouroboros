@@ -1,2 +1,25 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<svlete:head>
+	<title>The Procrastinator's Guide to…</title>
+	<meta name="author" content="Elbong Gearny" />
+</svlete:head>
+
+<img
+	src="/navelgazer-animated.svg"
+	alt="An animated introduction to the navelgazer logo, in which a sort of bald-headed alien face, seen from the checkbones up, suddenly sprouts a third eye on its ginormous forehead, then, after a bit of looking around, the entire outline of the head flops forward, hinged at the base of those 'cheekbones', flipping to reveal itself as not an alien head, but a wide belly. The 'third eye' is now below the other two eye dots, and what had looked like brow ridges now look like man-boobs with two used-to-be-eye nipples and a used-to-be-third-eye belly button. After a pause, the belly button 'looks' languidly left, then right, then snaps back, almost guiltily, to center."
+/>
+
+<style>
+	:root {
+		height: 100%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	img {
+		max-width: 50vh;
+		min-width: 20rem;
+		position: relative;
+		top: -10rem;
+	}
+</style>
