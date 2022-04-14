@@ -10,7 +10,7 @@
 
 <style>
   div {
-    margin: 1rem 1rem 1rem 3rem;
+    margin: 1rem;
     padding: 2rem;
     max-width: 70vw;
     border-left: 0.25rem solid #ccc;

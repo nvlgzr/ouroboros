@@ -8,6 +8,6 @@
   img {
     width: 75%;
     height: auto;
-    margin: 3rem auto;
+    margin: 0 auto;
   }
 </style>
