@@ -1,6 +1,6 @@
 <svlete:head>
-	<title>The Procrastinator's Guide to…</title>
-	<meta name="author" content="Elbong Gearny" />
+  <title>The Procrastinator's Guide to…</title>
+  <meta name="author" content="Elbong Gearny" />
 </svlete:head>
 
 <a href="/theStoryteller/Book/0/Prolog/the-north-tower">
@@ -11,17 +11,17 @@
 </a>
 
 <style>
-	:root {
-		height: 100%;
-		display: flex;
-		justify-content: center;
-		align-items: center;
-	}
+  :root {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 
-	img {
-		max-width: 50vh;
-		min-width: 20rem;
-		position: relative;
-		top: -10rem;
-	}
+  img {
+    max-width: 50vh;
+    min-width: 20rem;
+    position: relative;
+    top: -10rem;
+  }
 </style>
