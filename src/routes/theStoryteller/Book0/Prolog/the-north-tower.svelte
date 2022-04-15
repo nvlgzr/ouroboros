@@ -55,8 +55,8 @@ Suruchi just stares at him. He sighs, nodding. With two fingers held out like an
 <Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"c802cd80-7a86-4037-8bb8-9c77a756a906","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-13T21:57:00.000Z"}}>
 “I think it came from the back,” Mark calls from the other side of the truck. “Oh fuuuuu…. Yep. That would do it…”
 </Paragraph>
-<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"d3f55812-7b6a-4f6b-a279-c9aff2f2f57f","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-13T21:57:00.000Z"}}>
-Approaching the ambulance tail lights, Suruchi knows what she will find, and she desperately hopes that she's wrong. Sure enough, the negotiations have failed. There are the limbs, resting at impossible angles. There's the head, light hair darkly drenched around a fist-deep crater at the back of the skull. Eerily, <Link type="absolute" href='https://www.notion.so/The-Ambulance-Adri-s-body-is-still-breathing-6de5c1ddd7ea407d9ec7a33ea27c251a'>the body is still breathing</Link>, though she knows this won't last long.
+<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"d3f55812-7b6a-4f6b-a279-c9aff2f2f57f","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-15T05:08:00.000Z"}}>
+Approaching the ambulance tail lights, Suruchi knows what she will find, and she desperately hopes that she's wrong. Sure enough, the negotiations have failed. There are the limbs, resting at impossible angles. There's the head, light hair darkly drenched around a fist-deep crater at the back of the skull. Eerily, the body is still breathing, though she knows this won't last long.
 </Paragraph>
 <Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"51283802-4ea1-4b28-9836-48d3f384e3e7","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-13T21:57:00.000Z"}}>
 This isn't Mark's first ride, but it is his first year on the road, and he's hanging back, aghast and uncertain.
