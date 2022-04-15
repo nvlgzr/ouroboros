@@ -9,7 +9,9 @@
 
 <div id="cover" style="height:0">&nbsp;</div>
 <main>
-  <slot />
+  <div class="left">&nbsp;</div>
+  <div class="content"><slot /></div>
+  <div class="right">&nbsp;</div>
 </main>
 
 <footer>
@@ -30,13 +32,16 @@
     --reading-width: 35rem;
   }
   main {
-    margin: var(--main-margin);
+    display: grid;
+    grid-template-columns: 1fr min(var(--reading-width), 90%) 1fr;
+    margin: 0 auto;
     max-width: var(--reading-width);
     font-family: var(--body-text);
     font-weight: var(--body-weight);
     line-height: var(--body-spacing);
   }
   footer {
+    margin-top: 4rem;
     font: 100 1.6rem 'Noto Serif Display', serif;
   }
   footer * {
