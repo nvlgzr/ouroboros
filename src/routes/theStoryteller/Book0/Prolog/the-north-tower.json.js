@@ -2,7 +2,7 @@ const json = {
   "object": "page",
   "id": "8b23e77d-88a6-4002-83c7-a9e0448f97aa",
   "created_time": "2022-04-13T02:47:00.000Z",
-  "last_edited_time": "2022-04-14T00:59:00.000Z",
+  "last_edited_time": "2022-04-15T00:02:00.000Z",
   "created_by": {
     "object": "user",
     "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
@@ -14,8 +14,7 @@ const json = {
   "cover": {
     "type": "file",
     "file": {
-      "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1e5d0b13-aa2c-463f-8acd-d15bda2b66d5/497124A5-CFE1-4EDE-905B-30D66F78859B.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220414%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220414T073309Z&X-Amz-Expires=3600&X-Amz-Signature=bd30c36e3c1f5b9e1badf89c23a2d0d9f689c5b2c8e88d946b7b2e9009f5812f&X-Amz-SignedHeaders=host&x-id=GetObject",
-      "expiry_time": "2022-04-14T08:33:09.263Z"
+      "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5e72ffda-dcf8-4291-8c68-daf2033b3bee/cover.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220415%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220415T000213Z&X-Amz-Expires=3600&X-Amz-Signature=983e1ffcb165531cdedae7f87c80954515171cb20d81204c4bc2d12bc75d9372&X-Amz-SignedHeaders=host&x-id=GetObject"
     }
   },
   "icon": null,
@@ -1265,7 +1264,7 @@ const json = {
       "object": "block",
       "id": "bb8f96d7-013d-4574-aecd-771286a31267",
       "created_time": "2022-04-13T21:57:00.000Z",
-      "last_edited_time": "2022-04-13T21:57:00.000Z",
+      "last_edited_time": "2022-04-14T23:54:00.000Z",
       "created_by": {
         "object": "user",
         "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
@@ -1283,7 +1282,7 @@ const json = {
           {
             "type": "text",
             "text": {
-              "content": "“\\",
+              "content": "“",
               "link": null
             },
             "annotations": {
@@ -1294,13 +1293,13 @@ const json = {
               "code": false,
               "color": "default"
             },
-            "plain_text": "“\\",
+            "plain_text": "“",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": "Bhen",
+              "content": "Behen",
               "link": null
             },
             "annotations": {
@@ -1311,13 +1310,13 @@ const json = {
               "code": false,
               "color": "default"
             },
-            "plain_text": "Bhen",
+            "plain_text": "Behen",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": "chod!\\",
+              "content": "chod!",
               "link": null
             },
             "annotations": {
@@ -1328,7 +1327,7 @@ const json = {
               "code": false,
               "color": "default"
             },
-            "plain_text": "chod!\\",
+            "plain_text": "chod!",
             "href": null
           },
           {
@@ -1852,7 +1851,7 @@ const json = {
       "object": "block",
       "id": "da8be5a4-c29f-4369-8e5a-e3d945a031f8",
       "created_time": "2022-04-13T21:57:00.000Z",
-      "last_edited_time": "2022-04-13T21:57:00.000Z",
+      "last_edited_time": "2022-04-14T21:15:00.000Z",
       "created_by": {
         "object": "user",
         "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
@@ -1870,7 +1869,7 @@ const json = {
           {
             "type": "text",
             "text": {
-              "content": "“Sorry,” she says, though she senses a fresh round of laughter looming, as Mark, himself starting to lose it, stares at his hands like§👣(If we are to believe Willie McBard…which we shouldn't. Duncan died in battle. Oh, William, you fantastic fibber!) Macbeth mac Findlaech after slaying King Duncan.",
+              "content": "“Sorry,” she says, though in her voice looms a fresh round of laughter. Mark holds his candycane-colored gloves cupped under his slow-dripping nose and pinches his lips to stop himself from joining her.",
               "link": null
             },
             "annotations": {
@@ -1881,7 +1880,7 @@ const json = {
               "code": false,
               "color": "default"
             },
-            "plain_text": "“Sorry,” she says, though she senses a fresh round of laughter looming, as Mark, himself starting to lose it, stares at his hands like§👣(If we are to believe Willie McBard…which we shouldn't. Duncan died in battle. Oh, William, you fantastic fibber!) Macbeth mac Findlaech after slaying King Duncan.",
+            "plain_text": "“Sorry,” she says, though in her voice looms a fresh round of laughter. Mark holds his candycane-colored gloves cupped under his slow-dripping nose and pinches his lips to stop himself from joining her.",
             "href": null
           }
         ]
@@ -1891,7 +1890,7 @@ const json = {
       "object": "block",
       "id": "b2e6bf33-48bf-4999-b2e4-41233113361a",
       "created_time": "2022-04-13T21:57:00.000Z",
-      "last_edited_time": "2022-04-13T21:57:00.000Z",
+      "last_edited_time": "2022-04-14T21:16:00.000Z",
       "created_by": {
         "object": "user",
         "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
@@ -1909,7 +1908,7 @@ const json = {
           {
             "type": "text",
             "text": {
-              "content": "“Good. You should be.” But he's grinning and shaking, and she's joining in. The laughter feels good, as does the apology, which, though she says nothing, was meant for whatever ghost might hang here, tangled in the fog.",
+              "content": "“Good. You should be.”",
               "link": null
             },
             "annotations": {
@@ -1920,7 +1919,7 @@ const json = {
               "code": false,
               "color": "default"
             },
-            "plain_text": "“Good. You should be.” But he's grinning and shaking, and she's joining in. The laughter feels good, as does the apology, which, though she says nothing, was meant for whatever ghost might hang here, tangled in the fog.",
+            "plain_text": "“Good. You should be.”",
             "href": null
           }
         ]
@@ -1928,9 +1927,9 @@ const json = {
     },
     {
       "object": "block",
-      "id": "5cc7fc85-338b-47d6-94f6-0e8cd565d270",
-      "created_time": "2022-04-13T21:57:00.000Z",
-      "last_edited_time": "2022-04-13T21:57:00.000Z",
+      "id": "c570bca4-d40a-4806-818f-9c9d85e104a8",
+      "created_time": "2022-04-14T21:16:00.000Z",
+      "last_edited_time": "2022-04-14T21:27:00.000Z",
       "created_by": {
         "object": "user",
         "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
@@ -1948,7 +1947,7 @@ const json = {
           {
             "type": "text",
             "text": {
-              "content": "She will remember it at several more inopportune times—upon the arrival of several police officers and a detective, when the Chief arrives shortly after clear them to drive away with their busted Whelan, in the locker room, while changing out of her navy slacks. Only after she gets home and empties her duffel bag into a laundry basket will she take it out and give it a good look. Only then will it occur to her that she is carrying someone's property. (Not the stiff. As far as she's concerned, that's now just a pile of doomed meat.) Only then will she realize that she has, technically, robbed a corpse.",
+              "content": "But he's grinning and shaking from the effort of trying to stay serious. Despite a valiant effort, the muscles of his lips lose easily in the reverse tug-of-war against his diaphragm, and the sudden spray of jet-powered air nebulizes the drop of blood that he’s trying to catch in his hands. Suruchi swears she can feel some of this bonus mist land across her cheek, which she wipes against the back of her hand.",
               "link": null
             },
             "annotations": {
@@ -1959,7 +1958,506 @@ const json = {
               "code": false,
               "color": "default"
             },
-            "plain_text": "She will remember it at several more inopportune times—upon the arrival of several police officers and a detective, when the Chief arrives shortly after clear them to drive away with their busted Whelan, in the locker room, while changing out of her navy slacks. Only after she gets home and empties her duffel bag into a laundry basket will she take it out and give it a good look. Only then will it occur to her that she is carrying someone's property. (Not the stiff. As far as she's concerned, that's now just a pile of doomed meat.) Only then will she realize that she has, technically, robbed a corpse.",
+            "plain_text": "But he's grinning and shaking from the effort of trying to stay serious. Despite a valiant effort, the muscles of his lips lose easily in the reverse tug-of-war against his diaphragm, and the sudden spray of jet-powered air nebulizes the drop of blood that he’s trying to catch in his hands. Suruchi swears she can feel some of this bonus mist land across her cheek, which she wipes against the back of her hand.",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "e004296b-1ec5-47a5-826f-9bc13d071981",
+      "created_time": "2022-04-14T21:26:00.000Z",
+      "last_edited_time": "2022-04-14T23:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "color": "default",
+        "text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“Chutiya ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“Chutiya ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "gadhe!”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "gadhe!”",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "2a321353-03cc-40f9-84f1-66663c1f685f",
+      "created_time": "2022-04-14T22:07:00.000Z",
+      "last_edited_time": "2022-04-14T22:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "color": "default",
+        "text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "They explode together then. The laughter feels good, as had her apology, which (she does not mention to Mark) was meant not for him, but for whatever ghost might hang here, tangled in the fog. Suruchi forgets about the hitchhiker in her navy blue cargo slacks. Being nothing more, after all, than worn ink and wood pulp, it will come to mind at only the most inopportune of times.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "They explode together then. The laughter feels good, as had her apology, which (she does not mention to Mark) was meant not for him, but for whatever ghost might hang here, tangled in the fog. Suruchi forgets about the hitchhiker in her navy blue cargo slacks. Being nothing more, after all, than worn ink and wood pulp, it will come to mind at only the most inopportune of times.",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "4906a8ed-4993-4ee2-b358-a096325b3c65",
+      "created_time": "2022-04-14T21:36:00.000Z",
+      "last_edited_time": "2022-04-14T22:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "color": "default",
+        "text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "First, there will be the police officers, including a detective, whose arrival will cause the folded image to take up residence in her proprioceptive model; she will feel it in her pocket from memory alone. To distract herself, Suruchi will deliberately dive into the inevitable banter, jumping in with crude in-joke acronyms and a thick façade of nonchalance.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "First, there will be the police officers, including a detective, whose arrival will cause the folded image to take up residence in her proprioceptive model; she will feel it in her pocket from memory alone. To distract herself, Suruchi will deliberately dive into the inevitable banter, jumping in with crude in-joke acronyms and a thick façade of nonchalance.",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "a7304f42-9b9c-4656-b00f-d1704fc8cf34",
+      "created_time": "2022-04-14T21:43:00.000Z",
+      "last_edited_time": "2022-04-14T21:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "color": "default",
+        "text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Her guilty panic will rear again when the chief arrives to give her and Mark the rest of the night off. Suruchi will again lose herself in the moment, watching the cops collect flecks of glop from her rig—including that grisly strand of scalp-dangled hair—into sterile containers.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Her guilty panic will rear again when the chief arrives to give her and Mark the rest of the night off. Suruchi will again lose herself in the moment, watching the cops collect flecks of glop from her rig—including that grisly strand of scalp-dangled hair—into sterile containers.",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "55e5853b-d139-422b-9c7c-f8cbf0e17de6",
+      "created_time": "2022-04-14T21:46:00.000Z",
+      "last_edited_time": "2022-04-14T21:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "color": "default",
+        "text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "She will absent-mindedly pull the card out in the locker room, back at the station. For a fleeting moment, old pathways in her brain will recognize it as trash; something to be recycled, before the more recent memories kick in. Her shame will retrigger at the sound of a shower turning off. Suruchi will smuggle the contraband with a darting motion into her gym bag, there to be forgotten once more.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "She will absent-mindedly pull the card out in the locker room, back at the station. For a fleeting moment, old pathways in her brain will recognize it as trash; something to be recycled, before the more recent memories kick in. Her shame will retrigger at the sound of a shower turning off. Suruchi will smuggle the contraband with a darting motion into her gym bag, there to be forgotten once more.",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "fdff3dc2-e8e6-4675-9d72-cba9811f3a46",
+      "created_time": "2022-04-14T08:57:00.000Z",
+      "last_edited_time": "2022-04-14T21:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "color": "default",
+        "text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Only after she gets home and empties her duffel bag into a laundry basket will Suruchi pause to give the postcard a good look. Only then will it occur to her that she is carrying someone's property. Not the stiff’s, of course. The deceased is now just a pile of doomed meat, incapable of ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Only after she gets home and empties her duffel bag into a laundry basket will Suruchi pause to give the postcard a good look. Only then will it occur to her that she is carrying someone's property. Not the stiff’s, of course. The deceased is now just a pile of doomed meat, incapable of ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "owning",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "owning",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " anything. But the printed address and the valid postage will argue for a future owner. Someone—someone whose name starts with ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " anything. But the printed address and the valid postage will argue for a future owner. Someone—someone whose name starts with ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "R?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "R?",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "—was supposed to receive this message in the mail. Or were they?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "—was supposed to receive this message in the mail. Or were they?",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "650996d1-9e7c-41b8-9b32-9a34efc5f591",
+      "created_time": "2022-04-14T09:17:00.000Z",
+      "last_edited_time": "2022-04-14T23:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "color": "default",
+        "text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Only when Suruchi has exhausted her quiver of questions will she decide to delay posting the card till morning. But later, as she startle-wakes from her first attempted sink into sleep for the night, it will dawn on her that she has, technically, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Only when Suruchi has exhausted her quiver of questions will she decide to delay posting the card till morning. But later, as she startle-wakes from her first attempted sink into sleep for the night, it will dawn on her that she has, technically, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "robbed a corpse",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "robbed a corpse",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ". On ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ". On ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "federal",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "federal",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " property. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " property. ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "And everything’s traceable these days. Cameras on every drop box. It's too soon. The FBI and SFPD are probably giving the case extra scrutiny. After all, it's not every day someone splashes their brains across the 101. And cryptic messages hide cryptic motives. What am I getting snarled up into?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "And everything’s traceable these days. Cameras on every drop box. It's too soon. The FBI and SFPD are probably giving the case extra scrutiny. After all, it's not every day someone splashes their brains across the 101. And cryptic messages hide cryptic motives. What am I getting snarled up into?",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "a41bf9c5-c0a9-4f8a-8dce-00ebc25175c3",
+      "created_time": "2022-04-14T09:20:00.000Z",
+      "last_edited_time": "2022-04-14T23:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "color": "default",
+        "text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "After a night full of dread-building dreams, Suruchi will revise her deadline for mailing the card to: Someday. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "After a night full of dread-building dreams, Suruchi will revise her deadline for mailing the card to: Someday. ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Maybe.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Maybe.",
             "href": null
           }
         ]
@@ -1969,7 +2467,7 @@ const json = {
       "object": "block",
       "id": "89aaeb1a-466b-4700-9d7d-1d86cf9665ec",
       "created_time": "2022-04-13T21:57:00.000Z",
-      "last_edited_time": "2022-04-13T21:57:00.000Z",
+      "last_edited_time": "2022-04-14T23:48:00.000Z",
       "created_by": {
         "object": "user",
         "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
@@ -1987,7 +2485,7 @@ const json = {
           {
             "type": "text",
             "text": {
-              "content": "It will be a simple thought, but it will be enough to make Suruchi think that the accidental theft can be easily undone by simply posting it. But not today. Not tomorrow. Dead people don't use the United States Postal Service (and live people, only rarely). It's too soon. Too hot on the heels of whatever investigation the SFPD might have underway. After all, it's not every day someone splashes their brains across the Golden Gate Bridge.",
+              "content": "The postcard will rule the roost, for a time, atop a small stack of non-urgent Things To Do, only to be slowly buried by her own keep-sakes, and other half-baked commitments. From there, it will eventually make its way into a box, which itself will maneuver itself into a storage unit. Forgotten.",
               "link": null
             },
             "annotations": {
@@ -1998,116 +2496,17 @@ const json = {
               "code": false,
               "color": "default"
             },
-            "plain_text": "It will be a simple thought, but it will be enough to make Suruchi think that the accidental theft can be easily undone by simply posting it. But not today. Not tomorrow. Dead people don't use the United States Postal Service (and live people, only rarely). It's too soon. Too hot on the heels of whatever investigation the SFPD might have underway. After all, it's not every day someone splashes their brains across the Golden Gate Bridge.",
+            "plain_text": "The postcard will rule the roost, for a time, atop a small stack of non-urgent Things To Do, only to be slowly buried by her own keep-sakes, and other half-baked commitments. From there, it will eventually make its way into a box, which itself will maneuver itself into a storage unit. Forgotten.",
             "href": null
           }
         ]
-      }
-    },
-    {
-      "object": "block",
-      "id": "dc664fc5-dfdc-470b-ab3b-4a032a03ed4b",
-      "created_time": "2022-04-13T21:57:00.000Z",
-      "last_edited_time": "2022-04-13T21:57:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
-      },
-      "has_children": false,
-      "archived": false,
-      "type": "paragraph",
-      "paragraph": {
-        "color": "default",
-        "text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "The postcard will join an unofficial Someday Maybe pile, where it will soon become covered by other non-urgent, half-baked commitments. From there, it will eventually make its way into a box, which itself will find its way into a storage unit, forgotten.",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "The postcard will join an unofficial Someday Maybe pile, where it will soon become covered by other non-urgent, half-baked commitments. From there, it will eventually make its way into a box, which itself will find its way into a storage unit, forgotten.",
-            "href": null
-          }
-        ]
-      }
-    },
-    {
-      "object": "block",
-      "id": "92073917-88fe-45f2-b637-7e249920edcc",
-      "created_time": "2022-04-13T21:57:00.000Z",
-      "last_edited_time": "2022-04-13T21:57:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
-      },
-      "has_children": false,
-      "archived": false,
-      "type": "paragraph",
-      "paragraph": {
-        "color": "default",
-        "text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "But for now, Suruchi and Mark are having a good laugh as she fetches supplies to help him clean up. “Medic!” he fake-screams until she's filled his self-stained hands with a piece of gauze and some alcohol wipes, at which point he shuts up and takes over the cleaning.",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "But for now, Suruchi and Mark are having a good laugh as she fetches supplies to help him clean up. “Medic!” he fake-screams until she's filled his self-stained hands with a piece of gauze and some alcohol wipes, at which point he shuts up and takes over the cleaning.",
-            "href": null
-          }
-        ]
-      }
-    },
-    {
-      "object": "block",
-      "id": "6c1f7e9b-c7d4-45f5-8eef-2b4b0bfd19f3",
-      "created_time": "2022-04-14T00:59:00.000Z",
-      "last_edited_time": "2022-04-14T00:59:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
-      },
-      "has_children": false,
-      "archived": false,
-      "type": "paragraph",
-      "paragraph": {
-        "color": "default",
-        "text": []
       }
     },
     {
       "object": "block",
       "id": "229cdfe8-031b-4555-8c2d-f1bcbbf8dcac",
       "created_time": "2022-04-14T00:58:00.000Z",
-      "last_edited_time": "2022-04-14T00:58:00.000Z",
+      "last_edited_time": "2022-04-14T09:50:00.000Z",
       "created_by": {
         "object": "user",
         "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
@@ -2123,37 +2522,15 @@ const json = {
         "caption": [],
         "type": "file",
         "file": {
-          "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4014914c-6808-4d3d-bfe6-32e8e65c5d31/231154F6-AEDC-4BED-A16A-E203FBE07DF8.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220414%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220414T073309Z&X-Amz-Expires=3600&X-Amz-Signature=d0e3d6e56b96698adfcc949f4243d8df76f29b253bfb5bf44ca386612c21b126&X-Amz-SignedHeaders=host&x-id=GetObject",
-          "expiry_time": "2022-04-14T08:33:09.620Z"
+          "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4014914c-6808-4d3d-bfe6-32e8e65c5d31/231154F6-AEDC-4BED-A16A-E203FBE07DF8.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220415%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220415T000214Z&X-Amz-Expires=3600&X-Amz-Signature=7587a862aad0ca468c6bd1b2d8b54d0c5b3e246b62d55b720ace52bf7579d630&X-Amz-SignedHeaders=host&x-id=GetObject"
         }
       }
     },
     {
       "object": "block",
-      "id": "2fd4b6b8-3e09-460b-b18b-9642d5ebe88f",
-      "created_time": "2022-04-14T00:59:00.000Z",
-      "last_edited_time": "2022-04-14T00:59:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
-      },
-      "has_children": false,
-      "archived": false,
-      "type": "paragraph",
-      "paragraph": {
-        "color": "default",
-        "text": []
-      }
-    },
-    {
-      "object": "block",
-      "id": "b3d1571c-5556-44a8-95f6-48b00d0bcc81",
+      "id": "92073917-88fe-45f2-b637-7e249920edcc",
       "created_time": "2022-04-13T21:57:00.000Z",
-      "last_edited_time": "2022-04-14T00:59:00.000Z",
+      "last_edited_time": "2022-04-14T23:48:00.000Z",
       "created_by": {
         "object": "user",
         "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
@@ -2171,7 +2548,7 @@ const json = {
           {
             "type": "text",
             "text": {
-              "content": "A set of red-white-and-blues pulls loose from the distant row of throbbing emergency lights that make up the barricade, eventually resolving into a slow-rolling police cruiser, which crunches gravel as it slows to a stop, a few meters away. Its day runners bring fresh daylight to the gruesome scene.",
+              "content": "Eventually.",
               "link": null
             },
             "annotations": {
@@ -2182,7 +2559,85 @@ const json = {
               "code": false,
               "color": "default"
             },
-            "plain_text": "A set of red-white-and-blues pulls loose from the distant row of throbbing emergency lights that make up the barricade, eventually resolving into a slow-rolling police cruiser, which crunches gravel as it slows to a stop, a few meters away. Its day runners bring fresh daylight to the gruesome scene.",
+            "plain_text": "Eventually.",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "fd09329b-7fb7-44d5-a23b-247d290cc1b9",
+      "created_time": "2022-04-14T23:48:00.000Z",
+      "last_edited_time": "2022-04-14T23:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "color": "default",
+        "text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "But for now, Suruchi and Mark are having a good laugh as she fetches supplies to help him mop up. “Medic!” he hollers every time a crimson drop splashes into his open, white-gloved fist.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "But for now, Suruchi and Mark are having a good laugh as she fetches supplies to help him mop up. “Medic!” he hollers every time a crimson drop splashes into his open, white-gloved fist.",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "b3d1571c-5556-44a8-95f6-48b00d0bcc81",
+      "created_time": "2022-04-13T21:57:00.000Z",
+      "last_edited_time": "2022-04-14T09:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "color": "default",
+        "text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "She pops open a kit and starts patching him as a set of red-white-and-blues pulls loose from the distant row of throbbing emergency lights that make up the barricade. It eventually resolves into a slow-rolling police cruiser, which crunches gravel as it slows, stopping a few meters away. Its day runners bring fresh illumination to the gruesome scene.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "She pops open a kit and starts patching him as a set of red-white-and-blues pulls loose from the distant row of throbbing emergency lights that make up the barricade. It eventually resolves into a slow-rolling police cruiser, which crunches gravel as it slows, stopping a few meters away. Its day runners bring fresh illumination to the gruesome scene.",
             "href": null
           }
         ]
@@ -2231,7 +2686,7 @@ const json = {
       "object": "block",
       "id": "7ab02909-3fd1-4a41-8723-bd689fb8f978",
       "created_time": "2022-04-13T21:57:00.000Z",
-      "last_edited_time": "2022-04-13T21:57:00.000Z",
+      "last_edited_time": "2022-04-15T00:02:00.000Z",
       "created_by": {
         "object": "user",
         "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"

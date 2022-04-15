@@ -109,8 +109,8 @@ Aside from a few drops of blood, there appears to be no external damage to the w
 <Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"86828394-a9eb-4b78-8cfa-68c64b5dc0c6","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-13T21:57:00.000Z"}}>
 “Hey, Mark,” she hollers, still crouching, “come give me a hand!” But he's still talking to Control, and she's already lifting from the side, rolling the torso heavily up and off the splayed thighs, looking to see if maybe there's a purse or a wallet hiding under there. The soft flesh at the back of her throat recoils at the close-up stench of evacuated bowels, closing off the passage between her mouth and her olfactory system so that she won't have to taste the full pungency of the breeze-blown air.
 </Paragraph>
-<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"bb8f96d7-013d-4574-aecd-771286a31267","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-13T21:57:00.000Z"}}>
-“\<em>Bhen</em><em><strong>chod!\</strong></em>” Suruchi swears, taking advantage of one of the few words her parents have passed down to her from her immigrant ancestors. “The poor fucker’s green guts are all down her leg…ugh.”
+<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"bb8f96d7-013d-4574-aecd-771286a31267","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-14T23:54:00.000Z"}}>
+“<em>Behen</em><em><strong>chod!</strong></em>” Suruchi swears, taking advantage of one of the few words her parents have passed down to her from her immigrant ancestors. “The poor fucker’s green guts are all down her leg…ugh.”
 </Paragraph>
 <Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"bb9ade96-f023-4d2d-8b69-69eb433ba791","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-13T21:57:00.000Z"}}>
 There's plenty here to shock even Suruchi's hardened world view, but the first thing to truly grab her attention isn't the face, or what's left of it, nor the horrid mix of body fluids puddled in the dark. Instead, her attention zooms in on a thin triangle protruding the hip. It's unusual to see anyone carrying paper these days, and even more unusual to have a functioning pocket in a diaphanous dress.
@@ -144,38 +144,56 @@ This makes him laugh, which he unwisely attempts to block. The wet tissues at th
 <Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"b30b569b-69e3-4920-bc04-924f27027c2f","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-13T21:57:00.000Z"}}>
 Perhaps it's just the natural mimicry of her hapish brain, or perhaps it's the stark contrast between Mark's tiny leak against the geyser emitted by the stranger at their feet: either way, and Suruchi can't stop herself letting escape a sound like a rake being dragged through gravel.
 </Paragraph>
-<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"da8be5a4-c29f-4369-8e5a-e3d945a031f8","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-13T21:57:00.000Z"}}>
-“Sorry,” she says, though she senses a fresh round of laughter looming, as Mark, himself starting to lose it, stares at his hands like§👣(If we are to believe Willie McBard…which we shouldn't. Duncan died in battle. Oh, William, you fantastic fibber!) Macbeth mac Findlaech after slaying King Duncan.
+<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"da8be5a4-c29f-4369-8e5a-e3d945a031f8","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-14T21:15:00.000Z"}}>
+“Sorry,” she says, though in her voice looms a fresh round of laughter. Mark holds his candycane-colored gloves cupped under his slow-dripping nose and pinches his lips to stop himself from joining her.
 </Paragraph>
-<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"b2e6bf33-48bf-4999-b2e4-41233113361a","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-13T21:57:00.000Z"}}>
-“Good. You should be.” But he's grinning and shaking, and she's joining in. The laughter feels good, as does the apology, which, though she says nothing, was meant for whatever ghost might hang here, tangled in the fog.
+<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"b2e6bf33-48bf-4999-b2e4-41233113361a","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-14T21:16:00.000Z"}}>
+“Good. You should be.”
 </Paragraph>
-<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"5cc7fc85-338b-47d6-94f6-0e8cd565d270","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-13T21:57:00.000Z"}}>
-She will remember it at several more inopportune times—upon the arrival of several police officers and a detective, when the Chief arrives shortly after clear them to drive away with their busted Whelan, in the locker room, while changing out of her navy slacks. Only after she gets home and empties her duffel bag into a laundry basket will she take it out and give it a good look. Only then will it occur to her that she is carrying someone's property. (Not the stiff. As far as she's concerned, that's now just a pile of doomed meat.) Only then will she realize that she has, technically, robbed a corpse.
+<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"c570bca4-d40a-4806-818f-9c9d85e104a8","created_time":"2022-04-14T21:16:00.000Z","last_edited_time":"2022-04-14T21:27:00.000Z"}}>
+But he's grinning and shaking from the effort of trying to stay serious. Despite a valiant effort, the muscles of his lips lose easily in the reverse tug-of-war against his diaphragm, and the sudden spray of jet-powered air nebulizes the drop of blood that he’s trying to catch in his hands. Suruchi swears she can feel some of this bonus mist land across her cheek, which she wipes against the back of her hand.
 </Paragraph>
-<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"89aaeb1a-466b-4700-9d7d-1d86cf9665ec","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-13T21:57:00.000Z"}}>
-It will be a simple thought, but it will be enough to make Suruchi think that the accidental theft can be easily undone by simply posting it. But not today. Not tomorrow. Dead people don't use the United States Postal Service (and live people, only rarely). It's too soon. Too hot on the heels of whatever investigation the SFPD might have underway. After all, it's not every day someone splashes their brains across the Golden Gate Bridge.
+<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"e004296b-1ec5-47a5-826f-9bc13d071981","created_time":"2022-04-14T21:26:00.000Z","last_edited_time":"2022-04-14T23:55:00.000Z"}}>
+“Chutiya <em>gadhe!”</em>
 </Paragraph>
-<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"dc664fc5-dfdc-470b-ab3b-4a032a03ed4b","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-13T21:57:00.000Z"}}>
-The postcard will join an unofficial Someday Maybe pile, where it will soon become covered by other non-urgent, half-baked commitments. From there, it will eventually make its way into a box, which itself will find its way into a storage unit, forgotten.
+<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"2a321353-03cc-40f9-84f1-66663c1f685f","created_time":"2022-04-14T22:07:00.000Z","last_edited_time":"2022-04-14T22:09:00.000Z"}}>
+They explode together then. The laughter feels good, as had her apology, which (she does not mention to Mark) was meant not for him, but for whatever ghost might hang here, tangled in the fog. Suruchi forgets about the hitchhiker in her navy blue cargo slacks. Being nothing more, after all, than worn ink and wood pulp, it will come to mind at only the most inopportune of times.
 </Paragraph>
-<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"92073917-88fe-45f2-b637-7e249920edcc","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-13T21:57:00.000Z"}}>
-But for now, Suruchi and Mark are having a good laugh as she fetches supplies to help him clean up. “Medic!” he fake-screams until she's filled his self-stained hands with a piece of gauze and some alcohol wipes, at which point he shuts up and takes over the cleaning.
+<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"4906a8ed-4993-4ee2-b358-a096325b3c65","created_time":"2022-04-14T21:36:00.000Z","last_edited_time":"2022-04-14T22:09:00.000Z"}}>
+First, there will be the police officers, including a detective, whose arrival will cause the folded image to take up residence in her proprioceptive model; she will feel it in her pocket from memory alone. To distract herself, Suruchi will deliberately dive into the inevitable banter, jumping in with crude in-joke acronyms and a thick façade of nonchalance.
 </Paragraph>
-<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"6c1f7e9b-c7d4-45f5-8eef-2b4b0bfd19f3","created_time":"2022-04-14T00:59:00.000Z","last_edited_time":"2022-04-14T00:59:00.000Z"}}>
-
+<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"a7304f42-9b9c-4656-b00f-d1704fc8cf34","created_time":"2022-04-14T21:43:00.000Z","last_edited_time":"2022-04-14T21:46:00.000Z"}}>
+Her guilty panic will rear again when the chief arrives to give her and Mark the rest of the night off. Suruchi will again lose herself in the moment, watching the cops collect flecks of glop from her rig—including that grisly strand of scalp-dangled hair—into sterile containers.
+</Paragraph>
+<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"55e5853b-d139-422b-9c7c-f8cbf0e17de6","created_time":"2022-04-14T21:46:00.000Z","last_edited_time":"2022-04-14T21:49:00.000Z"}}>
+She will absent-mindedly pull the card out in the locker room, back at the station. For a fleeting moment, old pathways in her brain will recognize it as trash; something to be recycled, before the more recent memories kick in. Her shame will retrigger at the sound of a shower turning off. Suruchi will smuggle the contraband with a darting motion into her gym bag, there to be forgotten once more.
+</Paragraph>
+<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"fdff3dc2-e8e6-4675-9d72-cba9811f3a46","created_time":"2022-04-14T08:57:00.000Z","last_edited_time":"2022-04-14T21:56:00.000Z"}}>
+Only after she gets home and empties her duffel bag into a laundry basket will Suruchi pause to give the postcard a good look. Only then will it occur to her that she is carrying someone's property. Not the stiff’s, of course. The deceased is now just a pile of doomed meat, incapable of <em>owning</em> anything. But the printed address and the valid postage will argue for a future owner. Someone—someone whose name starts with <em>R?</em>—was supposed to receive this message in the mail. Or were they?
+</Paragraph>
+<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"650996d1-9e7c-41b8-9b32-9a34efc5f591","created_time":"2022-04-14T09:17:00.000Z","last_edited_time":"2022-04-14T23:44:00.000Z"}}>
+Only when Suruchi has exhausted her quiver of questions will she decide to delay posting the card till morning. But later, as she startle-wakes from her first attempted sink into sleep for the night, it will dawn on her that she has, technically, <em>robbed a corpse</em>. On <em>federal</em> property. <em>And everything’s traceable these days. Cameras on every drop box. It's too soon. The FBI and SFPD are probably giving the case extra scrutiny. After all, it's not every day someone splashes their brains across the 101. And cryptic messages hide cryptic motives. What am I getting snarled up into?</em>
+</Paragraph>
+<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"a41bf9c5-c0a9-4f8a-8dce-00ebc25175c3","created_time":"2022-04-14T09:20:00.000Z","last_edited_time":"2022-04-14T23:45:00.000Z"}}>
+After a night full of dread-building dreams, Suruchi will revise her deadline for mailing the card to: Someday. <em>Maybe.</em>
+</Paragraph>
+<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"89aaeb1a-466b-4700-9d7d-1d86cf9665ec","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-14T23:48:00.000Z"}}>
+The postcard will rule the roost, for a time, atop a small stack of non-urgent Things To Do, only to be slowly buried by her own keep-sakes, and other half-baked commitments. From there, it will eventually make its way into a box, which itself will maneuver itself into a storage unit. Forgotten.
 </Paragraph>
 <Image url="/assets/theStoryteller/Book0/Prolog/the-north-tower/229cdfe8-031b-4555-8c2d-f1bcbbf8dcac.jpg"></Image>
-<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"2fd4b6b8-3e09-460b-b18b-9642d5ebe88f","created_time":"2022-04-14T00:59:00.000Z","last_edited_time":"2022-04-14T00:59:00.000Z"}}>
-
+<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"92073917-88fe-45f2-b637-7e249920edcc","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-14T23:48:00.000Z"}}>
+Eventually.
 </Paragraph>
-<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"b3d1571c-5556-44a8-95f6-48b00d0bcc81","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-14T00:59:00.000Z"}}>
-A set of red-white-and-blues pulls loose from the distant row of throbbing emergency lights that make up the barricade, eventually resolving into a slow-rolling police cruiser, which crunches gravel as it slows to a stop, a few meters away. Its day runners bring fresh daylight to the gruesome scene.
+<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"fd09329b-7fb7-44d5-a23b-247d290cc1b9","created_time":"2022-04-14T23:48:00.000Z","last_edited_time":"2022-04-14T23:48:00.000Z"}}>
+But for now, Suruchi and Mark are having a good laugh as she fetches supplies to help him mop up. “Medic!” he hollers every time a crimson drop splashes into his open, white-gloved fist.
+</Paragraph>
+<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"b3d1571c-5556-44a8-95f6-48b00d0bcc81","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-14T09:48:00.000Z"}}>
+She pops open a kit and starts patching him as a set of red-white-and-blues pulls loose from the distant row of throbbing emergency lights that make up the barricade. It eventually resolves into a slow-rolling police cruiser, which crunches gravel as it slows, stopping a few meters away. Its day runners bring fresh illumination to the gruesome scene.
 </Paragraph>
 <Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"0a29eb8a-6638-4a72-a54b-d19bbbda79a6","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-13T21:57:00.000Z"}}>
 As Mark sidles over to greet the newcomers, Suruchi stares off in the other direction, out toward the pitch-black ocean, hiding below the brilliant mist.
 </Paragraph>
-<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"7ab02909-3fd1-4a41-8723-bd689fb8f978","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-13T21:57:00.000Z"}}>
+<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"7ab02909-3fd1-4a41-8723-bd689fb8f978","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-15T00:02:00.000Z"}}>
 Behind her, the victim's blood pools and ripples across the asphalt. Following gravity to a crack designed for rain, dark, glistening beads drop silently down, down, down, to be swallowed by the sea.
 </Paragraph>
 
