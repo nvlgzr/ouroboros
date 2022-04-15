@@ -184,8 +184,8 @@ The postcard will rule the roost, for a time, atop a small stack of non-urgent T
 <Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"92073917-88fe-45f2-b637-7e249920edcc","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-14T23:48:00.000Z"}}>
 Eventually.
 </Paragraph>
-<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"fd09329b-7fb7-44d5-a23b-247d290cc1b9","created_time":"2022-04-14T23:48:00.000Z","last_edited_time":"2022-04-14T23:48:00.000Z"}}>
-But for now, Suruchi and Mark are having a good laugh as she fetches supplies to help him mop up. “Medic!” he hollers every time a crimson drop splashes into his open, white-gloved fist.
+<Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"fd09329b-7fb7-44d5-a23b-247d290cc1b9","created_time":"2022-04-14T23:48:00.000Z","last_edited_time":"2022-04-15T05:01:00.000Z"}}>
+But for now, Suruchi and Mark are having a good laugh as she fetches supplies to help him mop up. “Medic!” he hollers every time a crimson drop splashes into his albescent open fist.
 </Paragraph>
 <Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"b3d1571c-5556-44a8-95f6-48b00d0bcc81","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-14T09:48:00.000Z"}}>
 She pops open a kit and starts patching him as a set of red-white-and-blues pulls loose from the distant row of throbbing emergency lights that make up the barricade. It eventually resolves into a slow-rolling police cruiser, which crunches gravel as it slows, stopping a few meters away. Its day runners bring fresh illumination to the gruesome scene.
