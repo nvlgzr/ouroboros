@@ -28,7 +28,7 @@
       </script>
       
 
-  <Cover coverURL={"/assets/theStoryteller/Book0/Prolog/the-north-tower/cover.jpg"} iconEmojiOrURL={"undefined"} />
+  <Cover coverURL={"/assets/theStoryteller/Book/0/Prolog/the-north-tower/cover.jpg"} iconEmojiOrURL={"undefined"} />
   <Title>The North Tower</Title>
 
 
@@ -180,7 +180,7 @@ After a night full of dread-building dreams, Suruchi will revise her deadline fo
 <Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"89aaeb1a-466b-4700-9d7d-1d86cf9665ec","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-14T23:48:00.000Z"}}>
 The postcard will rule the roost, for a time, atop a small stack of non-urgent Things To Do, only to be slowly buried by her own keep-sakes, and other half-baked commitments. From there, it will eventually make its way into a box, which itself will maneuver itself into a storage unit. Forgotten.
 </Paragraph>
-<Image url="/assets/theStoryteller/Book0/Prolog/the-north-tower/229cdfe8-031b-4555-8c2d-f1bcbbf8dcac.jpg"></Image>
+<Image url="/assets/theStoryteller/Book/0/Prolog/the-north-tower/229cdfe8-031b-4555-8c2d-f1bcbbf8dcac.jpg"></Image>
 <Paragraph blockProps={{"pageId":"8b23e77d88a6400283c7a9e0448f97aa","id":"92073917-88fe-45f2-b637-7e249920edcc","created_time":"2022-04-13T21:57:00.000Z","last_edited_time":"2022-04-14T23:48:00.000Z"}}>
 Eventually.
 </Paragraph>
