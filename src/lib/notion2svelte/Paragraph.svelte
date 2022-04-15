@@ -12,8 +12,8 @@
 
 <style>
   p {
-    padding: 0 0 0.5rem 0;
     margin: 0;
     position: relative;
+    text-indent: 2rem;
   }
 </style>

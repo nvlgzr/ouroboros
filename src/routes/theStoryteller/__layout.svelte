@@ -35,7 +35,7 @@
     --body-spacing: 1.6rem;
     --body-weight: 400;
     --display-font: 100 1.6rem/1.6rem 'Noto Serif Display', serif / 3.2rem;
-    --reading-width: 35rem;
+    --reading-width: 42rem;
   }
   main {
     display: grid;
