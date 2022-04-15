@@ -13,7 +13,7 @@
     background-color: whitesmoke;
     padding: 1rem;
     border-radius: 0.5rem;
-    margin: 0 auto 1rem auto;
+    margin: 2rem auto;
   }
 
   figcaption {
