@@ -22,6 +22,15 @@
   import Quote from '$lib/notion2svelte/Quote.svelte';
   import TodoItem from '$lib/notion2svelte/TodoItem.svelte';
   import Toggle from '$lib/notion2svelte/Toggle.svelte';
+
+  import { setContext } from 'svelte';
+
+  setContext('pageStuff', {
+    pageId: '8b23e77d88a6400283c7a9e0448f97aa',
+    title: 'The North Tower',
+    coverCreditAuthor: 'Riley, modified by Elbong Gearny',
+    coverCreditURL: 'https://unsplash.com/photos/eEljzRILh4I'
+  });
 </script>
 
 <svelte:head>
@@ -594,9 +603,8 @@
   property. Not the stiff’s, of course. The deceased is now just a pile of doomed meat, incapable of <em
     >owning</em
   >
-  anything. But the printed address and the valid postage will argue for a future owner.
-  Someone—someone whose name starts with <em>R?</em>—was supposed to receive this message in the
-  mail. Or were they?
+  anything. But the printed address and the valid postage will argue for a future owner. Someone—someone
+  whose name starts with <em>R?</em>—was supposed to receive this message in the mail. Or were they?
 </Paragraph>
 <Paragraph
   blockProps={{

@@ -1,33 +1,34 @@
 <script>
   import Portal from './Portal.svelte';
+  import CoverCredit from './CoverCredit.svelte';
 
   export let src = '';
   export let height = '100%';
 </script>
 
 <Portal target="#cover">
-  <div style="height: {height};">
+  <div class="fullbleed" style="height: {height};">
     <img style="height: {height};" {src} alt="ARIA Fail. Sorry!" />
   </div>
-  <div class="inner-shadow" style="height: {height};">&nbsp;</div>
+  <div class="inner-shadow fullbleed" style="height: {height};">&nbsp;</div>
+  <div style="height: {height}; position: relative;">
+    <div style="position: absolute; bottom: 0; right: 0;">
+      <CoverCredit />
+    </div>
+  </div>
 </Portal>
 
 <style>
-  div {
+  .fullbleed {
     position: absolute;
     top: 0;
     width: 100%;
     overflow: hidden;
-    border-bottom: 1px hsla(0, 0%, 13%, 0.1) solid;
     z-index: -1;
   }
 
   .inner-shadow {
-    /* bottom inset deep box-shadow */
-    box-shadow: inset 0 -3rem 2rem -2rem hsla(0, 0%, 13%, 0.427);
-    /* box-shadow: 0 10px 30px hsla(0, 0%, 13%, 0.5) inset; */
-    /* box-shadow: inset 0 0 100px -10px hsla(0, 0%, 13%, 0.5); */
-    /* box-shadow: inset 0 0 0.5rem 1rem hsla(0, 0%, 13%, 0.5); */
+    box-shadow: inset 0 7rem 5rem -5rem hsla(0, 0%, 0%, 0.5);
   }
 
   img {
