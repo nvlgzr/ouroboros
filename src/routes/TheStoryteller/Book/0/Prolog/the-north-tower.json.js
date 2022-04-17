@@ -31,7 +31,7 @@ const json = {
         {
           "type": "text",
           "text": {
-            "content": "theStoryteller/Book/0/Prolog",
+            "content": "TheStoryteller/Book/0/Prolog",
             "link": null
           },
           "annotations": {
@@ -42,7 +42,7 @@ const json = {
             "code": false,
             "color": "default"
           },
-          "plain_text": "theStoryteller/Book/0/Prolog",
+          "plain_text": "TheStoryteller/Book/0/Prolog",
           "href": null
         }
       ]
@@ -52,7 +52,7 @@ const json = {
       "type": "formula",
       "formula": {
         "type": "string",
-        "string": "/theStoryteller/Book/0/Prolog/the-north-tower"
+        "string": "/TheStoryteller/Book/0/Prolog/the-north-tower"
       }
     },
     "Page": {

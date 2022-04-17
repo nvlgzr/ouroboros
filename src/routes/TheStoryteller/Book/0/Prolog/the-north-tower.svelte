@@ -38,7 +38,7 @@
 </svelte:head>
 
 <Cover
-  coverURL={'/assets/theStoryteller/Book/0/Prolog/the-north-tower/cover.jpg'}
+  coverURL={'/assets/TheStoryteller/Book/0/Prolog/the-north-tower/cover.jpg'}
   iconEmojiOrURL={'undefined'}
 />
 <Title>The North Tower</Title>
@@ -651,7 +651,7 @@
   Forgotten.
 </Paragraph>
 <Image
-  url="/assets/theStoryteller/Book/0/Prolog/the-north-tower/229cdfe8-031b-4555-8c2d-f1bcbbf8dcac.jpg"
+  url="/assets/TheStoryteller/Book/0/Prolog/the-north-tower/229cdfe8-031b-4555-8c2d-f1bcbbf8dcac.jpg"
 />
 <Paragraph
   blockProps={{
