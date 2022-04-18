@@ -30,7 +30,7 @@
     title: 'The North Tower',
     coverAltText:
       'The top of the north tower of the Golden Gate Bridge, peeking out from a sunset-painted fog.',
-    coverCreditAuthor: 'Riley, modified by Elbong Gearny',
+    coverCreditAuthor: 'Riley, with modifications',
     coverCreditURL: 'https://unsplash.com/photos/eEljzRILh4I'
   });
 </script>
