@@ -1,6 +1,9 @@
 <script>
+  import { getContext } from 'svelte';
   import Portal from './Portal.svelte';
   import CoverCredit from './CoverCredit.svelte';
+
+  const { coverAltText } = getContext('pageStuff');
 
   export let src = '';
   export let height = '100%';
@@ -8,7 +11,7 @@
 
 <Portal target="#cover">
   <div class="fullbleed" style="height: {height};">
-    <img style="height: {height};" {src} alt="ARIA Fail. Sorry!" />
+    <img style="height: {height};" {src} alt={coverAltText} />
   </div>
   <div class="inner-shadow fullbleed" style="height: {height};">&nbsp;</div>
   <div style="height: {height}; position: relative;">
