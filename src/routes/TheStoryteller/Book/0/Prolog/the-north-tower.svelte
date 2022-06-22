@@ -48,9 +48,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'e91df843-e16c-479a-89da-7ca7f3d32aa7',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-22T21:40:00.000Z'
+    id: 'f72519bd-4de4-4bfd-960b-03ecbc10b001',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   A lone ambulance parks itself at the base of the north tower. Somewhere buried in the fog, police
@@ -61,9 +61,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'e6a61f27-6e92-4d10-866a-4410f4e0268f',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-13T21:57:00.000Z'
+    id: '7c9221cb-1d45-4479-9fdb-38bd3cfd5056',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   Suruchi has just lost a pawn. Forehead tight and lips pursed, she stares at Mark's dark, brooding
@@ -76,9 +76,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '64a3868c-2706-4c49-a24e-5ed895c9c51f',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-13T21:57:00.000Z'
+    id: '7f6d4254-ccfa-4835-bcf4-c01ce71b6f0c',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   “Jesus Christ!” Suruchi shouts into the silence that follows, clutching her chest and breathing
@@ -89,9 +89,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '35dc8568-310c-4dc5-89de-e269351bd48c',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-13T21:57:00.000Z'
+    id: '84badac3-5f4f-4f52-a531-dc80fa56fa9e',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   “Hey, no need to forfeit, Rooch. You weren't losing <em>that</em> bad!”
@@ -99,9 +99,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '4d72150f-c9d6-4603-a3b2-d170b10b8a68',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-22T21:41:00.000Z'
+    id: '032ce542-f00d-4c12-bd9c-4ff676f4f5d8',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   Suruchi just stares at him. He sighs, nodding. With two fingers held out like an airline attendant
@@ -111,9 +111,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '6dc411af-4632-467a-8403-4ac2290fce88',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-22T21:45:00.000Z'
+    id: 'a49e2eec-922b-4990-9a64-75bd2f39846d',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   “To be continued,” he says, squeezing the board between open palms until it's the size of a
@@ -123,9 +123,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'c802cd80-7a86-4037-8bb8-9c77a756a906',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-13T21:57:00.000Z'
+    id: '5fbeb56e-55a6-428a-b763-f3a4f5b8c4a7',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   “I think it came from the back,” Mark calls from the other side of the truck. “Oh fuuuuu…. Yep.
@@ -134,9 +134,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'd3f55812-7b6a-4f6b-a279-c9aff2f2f57f',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-15T05:08:00.000Z'
+    id: '9227799d-2cf2-4192-9b7f-b9db494bf352',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   Approaching the ambulance tail lights, Suruchi knows what she will find, and she desperately hopes
@@ -147,9 +147,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '51283802-4ea1-4b28-9836-48d3f384e3e7',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-22T22:01:00.000Z'
+    id: '09af0603-d034-41a5-a4c3-5b01f8fe8eea',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   This isn't Mark's first ride, but it is his first year on the road, and he's hanging back, aghast.
@@ -158,9 +158,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'b6561640-60b8-41c0-9731-62565823f6c6',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-13T21:57:00.000Z'
+    id: '8a01d265-e58e-4de4-a224-f752d35f8065',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   “You ok?”
@@ -168,9 +168,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'aee34ac6-59a9-467e-b564-ab28242b602a',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-13T21:57:00.000Z'
+    id: '0a3c3c42-5015-4b69-9813-cac866e01aea',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   He nods, but says nothing. He's chewing on his lips. Suruchi has never seen anything like this
@@ -180,9 +180,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '649dcafb-ff39-4bdf-bd87-2015413ee213',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-22T22:02:00.000Z'
+    id: '6b83f846-4224-476a-8445-79f1ed9bbe11',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   “Radio Control that we've got an FTF. I’ll get started on obs.”
@@ -190,9 +190,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '4217d17d-77db-4511-bf3e-8a4f2648d452',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-13T21:57:00.000Z'
+    id: 'c21526c2-08cf-4ab5-a6a8-291f73399332',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   “Failure to fly?” Mark says, rediscovering his tomfool bravado. “I was thinking vehicle
@@ -201,9 +201,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '98e792b0-86c8-4769-a635-25527d26f701',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-22T22:03:00.000Z'
+    id: 'e2773ad6-61c7-442d-9e65-46491f7907e3',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   She raises an unseen eyebrow at him as he walks back to the truck, chuckling to himself.
@@ -211,9 +211,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'dc6ea03e-389f-44be-9267-02db374ff00d',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-22T22:04:00.000Z'
+    id: '6510f088-633a-4909-9635-103cda940778',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   “<em>Merc. Headlights,</em>” Suruchi says, subconsciously adjusting her enunciation for the
@@ -222,9 +222,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'fc95dc86-f91b-40db-9483-d171350176ee',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-22T22:09:00.000Z'
+    id: 'b77d214d-69e3-43dc-bb1f-49354f2598f4',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   The machine pauses for—to it—an eternity (roughly the blink of an eye), waiting for potential
@@ -239,9 +239,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '87fbf10c-72dd-4f9b-bd92-884dcd654ed4',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-13T21:57:00.000Z'
+    id: 'a23ec2f2-37fe-43fd-95f8-1c1ac42f3aa9',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   Suruchi climbs up onto the bumper and steps sideways until she's half a meter from the point of
@@ -252,9 +252,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'd3e23fc5-bb78-4cb8-8f38-390608bc8a1f',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-22T22:11:00.000Z'
+    id: '02b463b2-caef-45f5-b55a-21ce7a967a9c',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   Bracing herself with a deep breath, Suruchi hops back down to the road, careful to avoid the
@@ -265,9 +265,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '55eea541-f6aa-4dc9-9709-39cea5f7c435',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-26T20:46:00.000Z'
+    id: '509b113b-6603-49b3-91a3-ae8c1e34d55e',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   A shiver trickles through Suruchi's throat and down her chest as she fights off her own
@@ -279,9 +279,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '637258b2-dc85-46ec-9995-f35a2293f3b7',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-22T22:16:00.000Z'
+    id: 'a44a68ec-4933-424f-a7d5-fdf3c876ea31',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   The impact seems to have flipped the body aggressively forward, folding the woman against the
@@ -293,9 +293,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '76ede89c-55a7-414e-bf95-acdebed78ebe',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-26T19:12:00.000Z'
+    id: 'a608bd9b-1a2f-4c64-8476-17ba8e5f9a14',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   She puts her port in recording mode with a wave, and slowly walks around the body, letting it
@@ -305,9 +305,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '7a8a03f9-f367-4465-8814-992b12e4e6c0',
-    created_time: '2022-04-26T19:12:00.000Z',
-    last_edited_time: '2022-04-26T19:14:00.000Z'
+    id: '21e452f7-e12f-4e5c-9707-402be218e3b3',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   When this is done, she plucks a pair of nitrile gloves from a box inside the truck, and prepares
@@ -316,9 +316,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '41514e5b-0bfd-4d41-8174-ef2ef56ebfc7',
-    created_time: '2022-04-26T19:13:00.000Z',
-    last_edited_time: '2022-04-26T19:14:00.000Z'
+    id: 'ecebbf0b-d336-4b98-95b3-33cf91d276df',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   “<em>Merc. Transcribe.</em>”
@@ -326,9 +326,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '8750255d-3ab5-40cb-94e9-11289110f00a',
-    created_time: '2022-04-26T19:15:00.000Z',
-    last_edited_time: '2022-04-26T19:26:00.000Z'
+    id: '29e3417f-08ff-48f4-af5e-737c30d7ee5c',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   A virtual page now hangs in her riph, ready to soak up her thoughts. With careful articulation,
@@ -338,9 +338,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '32f687fd-1272-4354-bfee-4dd79bed6495',
-    created_time: '2022-04-26T19:24:00.000Z',
-    last_edited_time: '2022-04-26T19:26:00.000Z'
+    id: 'de1e8156-374c-4e98-819f-44c6929a902a',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   “Patient found, um, unresponsive with massive head trauma. No pulse. Won't attempt resuss. Patient
@@ -351,9 +351,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'e52e0d9f-1550-4434-a0d6-e5e69e2ea95d',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-26T19:31:00.000Z'
+    id: '9398811c-7742-4854-978d-fb4efa252962',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   Aside from a few drops of blood, there appears to be no external damage to the woman's back,
@@ -364,9 +364,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '1b01620d-f217-456c-bac9-3436b11ebb2d',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-26T19:32:00.000Z'
+    id: 'daa3a343-f2ad-45ef-9617-7ac03202c12b',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   “No portal. No sign of pendant straps,” Suruchi says, with a cursory peak at her notes. Then
@@ -376,9 +376,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '86828394-a9eb-4b78-8cfa-68c64b5dc0c6',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-26T19:34:00.000Z'
+    id: '5ca68a35-0add-4fa1-803a-4026cc3246d9',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   “Hey, Mark,” she hollers, still crouching, “come give me a hand!”
@@ -386,9 +386,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '42f881a4-6d00-44af-bd2e-1bde2357a22a',
-    created_time: '2022-04-26T19:34:00.000Z',
-    last_edited_time: '2022-04-26T19:53:00.000Z'
+    id: 'dd64440d-9ee5-4647-961b-30547f8ed22c',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   But he's still talking to Control, and she's already lifting from the side, rolling the torso
@@ -400,9 +400,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'bb8f96d7-013d-4574-aecd-771286a31267',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-26T19:34:00.000Z'
+    id: '58d3ec3a-102a-4d7a-a805-de85037e83d6',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   “<em>Behen</em><em><strong>chod!</strong></em>” Suruchi swears, taking advantage of one of the few
@@ -412,9 +412,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'bb9ade96-f023-4d2d-8b69-69eb433ba791',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-26T19:35:00.000Z'
+    id: '18c855eb-4138-457d-996b-9b977f99f06f',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   There's plenty here to shock even <em>Suruchi's</em> hardened world view, but the first thing to truly
@@ -426,9 +426,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'f909e971-d3c0-4e43-a178-160189b0c2b3',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-26T19:46:00.000Z'
+    id: '24f30a98-7297-4280-9b67-0acc2065b2c0',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   Still pushing hard to keep the trunk raised, she slides the paper out. It's a postcard, folded in
@@ -440,26 +440,28 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'dd8877bf-7b0f-4021-9e9d-ebfd173272e0',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-26T19:50:00.000Z'
+    id: '99d08b5e-618a-4a4e-9278-d4954780841e',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   Flipping the card around and unfolding it, she glances over the street address (no addressee,
-  destination: Hawaii) an uncancelled Forever stamp on the right, then focuses on the message on the
-  left. It’s brief—just two lines—and, like the address, written in blunt pencil; each letter traced
-  and retraced, leaving cuts in the card that cannot be erased.
+  destination: Hawaii) an uncancelled Forever stamp on the right, then focuses on the…message?…on
+  the left. It’s looks like an Al mark, but without the logo and, like the address, it’s written in
+  blunt pencil; each block traced and retraced, leaving cuts in the card that cannot be erased.
 </Paragraph>
 <Quote
-  >I LoVe YOU, ●R
-  <br />
-  I HOPe YOU UNDerSTAND</Quote
+  >📸<span slot="children"
+    ><Image
+      url="/assets/TheStoryteller/Book/0/Prolog/the-north-tower/355d0f7f-9ddd-47c2-94bb-5305af209741.svg"
+    />
+  </span></Quote
 ><Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'b03bd554-0bea-457e-ac14-40a2c1312dc8',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-26T19:59:00.000Z'
+    id: '2ad33bc2-8cab-480f-a9f9-55a17b17ac24',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   Nonplussed, Suruchi shrugs, refolds the card, and tries to slide it back into the dress pocket.
@@ -467,9 +469,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'e8721b34-56af-45ba-8263-c75dbdbede6e',
-    created_time: '2022-04-26T19:59:00.000Z',
-    last_edited_time: '2022-04-26T20:01:00.000Z'
+    id: '483fc6e3-6752-438e-9372-3603464850f1',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   It's much harder to get in than it was to get out, and she finds herself, while wriggling it, she
@@ -480,9 +482,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '4b27b6ff-f60b-4b7b-a5c2-73409c8ba700',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-13T21:57:00.000Z'
+    id: 'b0186ac6-56c2-4fef-a338-0b9e9b8c61d1',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   “Why couldn't you have jumped into the Bay like everyone else?” she grumbles.
@@ -490,9 +492,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '347d0021-ee0b-4ec3-aac5-ca75ac042980',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-13T21:57:00.000Z'
+    id: '19844750-c6b2-46dd-b5fa-435d3a57c6fc',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   “Maybe she's afraid of sharks.”
@@ -500,9 +502,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'eab1ecd2-826b-4ca4-b3c9-985d1ad01292',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-26T20:03:00.000Z'
+    id: 'a3bbe221-70a1-49a5-8836-84dad46ad566',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   Mark's voice is so close in her ear that she rears up, startled, clocking him in the chin so hard
@@ -514,9 +516,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '7521700e-3b10-41a1-a086-b66cdcc475a5',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-26T20:04:00.000Z'
+    id: 'f8d6c56c-9855-4cd5-834c-5ec9896c1b03',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   “Yeah, well…” she says, stifling a snigger. “Don’t creep on me like that! And don't call me
@@ -525,9 +527,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '4e56f058-1b3e-4db1-9c84-74aa50b9c6d8',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-26T20:20:00.000Z'
+    id: '20b50840-06f7-4ec5-bd62-f9cfaea8b7cb',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   This makes him laugh, which—still unready to forgive her—he unwisely attempts to stop. The wet
@@ -538,9 +540,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'b27c07f7-ad78-4e0f-85ad-7abeccb4ab85',
-    created_time: '2022-04-26T20:12:00.000Z',
-    last_edited_time: '2022-04-26T20:21:00.000Z'
+    id: '0c97f41c-e142-419d-97ab-05d6a5d1d408',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   There are drops forming on his upper lip and chin, but Suruchi knows he’ll heal soon enough.
@@ -549,9 +551,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '5ecc6d32-f244-4916-9a0d-77d8cf73643e',
-    created_time: '2022-04-26T20:15:00.000Z',
-    last_edited_time: '2022-04-26T20:15:00.000Z'
+    id: '8659e67c-d419-4100-a194-0f2b0d11d204',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   “You look like a well-fed vampire,” she teases him.
@@ -559,9 +561,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '82f12531-e2ae-40b1-82ee-b2844dc6254a',
-    created_time: '2022-04-26T20:15:00.000Z',
-    last_edited_time: '2022-04-26T20:15:00.000Z'
+    id: '3cedb936-46ce-43d3-83ee-ea4fcc73a13b',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   “Fuck you,” is the best he can do.
@@ -569,9 +571,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'da60d02c-c1ba-4b13-8903-199fccaf384f',
-    created_time: '2022-04-26T20:36:00.000Z',
-    last_edited_time: '2022-04-26T20:39:00.000Z'
+    id: '6faca85f-00dc-42bd-9247-f4f4e9eab725',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   Suruchi’s thoughts travel from vampires to spirits, and a chill traces her spine.
@@ -579,9 +581,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'da8be5a4-c29f-4369-8e5a-e3d945a031f8',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-26T20:40:00.000Z'
+    id: 'c4b86a99-3290-4d0d-b677-22b8d7a228e6',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   “Sorry,” she says, not to Mark, but to whatever ghosts might hang here, tangled in the fog.
@@ -589,9 +591,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'b2e6bf33-48bf-4999-b2e4-41233113361a',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-26T20:40:00.000Z'
+    id: 'd3217397-4079-4c76-8485-4b61599836cc',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   “Good. You should be.”
@@ -599,9 +601,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'b9adc1d6-ea57-4b4e-9226-d47b3fbe3841',
-    created_time: '2022-04-26T20:40:00.000Z',
-    last_edited_time: '2022-04-26T20:42:00.000Z'
+    id: 'd4367a54-ffb9-4ed4-97a5-e04268c95fcb',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   Mark sounds angry, but he's grinning wide, and shaking from the effort of trying to stay serious.
@@ -613,9 +615,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'e004296b-1ec5-47a5-826f-9bc13d071981',
-    created_time: '2022-04-14T21:26:00.000Z',
-    last_edited_time: '2022-04-14T23:55:00.000Z'
+    id: '56a28079-d8d2-4fdc-9a08-6ea4578e244b',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   “Chutiya <em>gadhe!”</em>
@@ -623,9 +625,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '2a321353-03cc-40f9-84f1-66663c1f685f',
-    created_time: '2022-04-14T22:07:00.000Z',
-    last_edited_time: '2022-04-26T20:41:00.000Z'
+    id: '025d2035-104f-45a8-9990-555f26911372',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   They explode together then. The laughter feels good, as had the apology. Suruchi has forgotten
@@ -635,9 +637,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '4906a8ed-4993-4ee2-b358-a096325b3c65',
-    created_time: '2022-04-14T21:36:00.000Z',
-    last_edited_time: '2022-04-26T21:17:00.000Z'
+    id: '469b17b3-14fc-4348-8414-2aa3c10697d5',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   First, there will be the police officers, including a detective. An inevitable bro-ey banter will
@@ -649,9 +651,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'c11608e1-695f-4fdc-94b7-40805d182a1b',
-    created_time: '2022-04-26T20:57:00.000Z',
-    last_edited_time: '2022-04-26T21:25:00.000Z'
+    id: 'a2cd1ba5-8803-467c-8f7d-15952b27d441',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   The Fire Chief will arrive, claiming she just had to see this for herself. More banter, and then
@@ -668,39 +670,39 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '55e5853b-d139-422b-9c7c-f8cbf0e17de6',
-    created_time: '2022-04-14T21:46:00.000Z',
-    last_edited_time: '2022-04-26T21:33:00.000Z'
+    id: 'e5c53bcc-8548-4cd4-a1d3-d4d71128018b',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   In the steam-filled locker room, Suruchi will stumble on the card while taking off her pants. For
-  a moment, she will stare at it blankly as ancient pathways in her brain declare <em
+  a moment, she will stare at it blankly while ancient pathways in her brain declare the paper <em
     >trash: something to be recycled</em
-  >. Then she’ll hear the shower turn off, retriggering her shame, and Suruchi will plunge the
-  contraband into the depths of her gym bag, there to be forgotten once more.
+  >. Then she’ll hear the dripping silence of an ended shower around the corner, and, panicked,
+  Suruchi will plunge the contraband into the depths of her gym bag, there to be forgotten once more
+  as she cloaks her guilt in badinage, bantering with her towel-wrapped colleague before biking
+  home.
 </Paragraph>
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'fdff3dc2-e8e6-4675-9d72-cba9811f3a46',
-    created_time: '2022-04-14T08:57:00.000Z',
-    last_edited_time: '2022-04-26T21:36:00.000Z'
+    id: '94501140-0f4e-435b-b02d-44c1fc09a3c9',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
-  After she gets home and empties her duffel into a laundry basket, Suruchi will finally pause to
-  give the postcard a good look. Only then will it occur to her that she is carrying someone's
-  property. Not the stiff’s, of course. The deceased is now just a pile of doomed meat, incapable of <em
-    >owning</em
-  >
+  There, emptying her duffel into a laundry basket, Suruchi will finally pause to give the postcard
+  a slow look. Only then will it occur to her that she is carrying someone else's property. Not the
+  stiff’s, of course. The deceased is now just a pile of doomed meat, incapable of <em>owning</em>
   anything. But the printed address and the valid postage will argue for a future owner. Someone—someone
   whose name starts with <em>R?</em>—was supposed to receive this message in the mail. Or were they?
 </Paragraph>
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '650996d1-9e7c-41b8-9b32-9a34efc5f591',
-    created_time: '2022-04-14T09:17:00.000Z',
-    last_edited_time: '2022-04-26T21:40:00.000Z'
+    id: '8d1a3b3e-85e9-4b3f-acea-53147d362d97',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   When Suruchi has exhausted her quiver of unanswerable questions, she will settle on posting the
@@ -709,9 +711,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '0113b7cf-96fb-47f9-9881-15d5c8991045',
-    created_time: '2022-04-26T21:40:00.000Z',
-    last_edited_time: '2022-04-26T21:56:00.000Z'
+    id: '2090e98f-9772-4d48-8729-390c9c7eb79c',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   But later, as she startle-wakes from her first attempt at sleep, it will dawn on her that she has,
@@ -726,9 +728,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'a41bf9c5-c0a9-4f8a-8dce-00ebc25175c3',
-    created_time: '2022-04-14T09:20:00.000Z',
-    last_edited_time: '2022-04-26T21:42:00.000Z'
+    id: 'b164580c-0cdf-4abe-82cf-f34a58fe3b4c',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   After a night full of dread-deepening dreams, Suruchi will revise her deadline for mailing the
@@ -737,9 +739,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '89aaeb1a-466b-4700-9d7d-1d86cf9665ec',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-26T21:42:00.000Z'
+    id: '3ddcdac8-3516-4857-9bcd-46d59d133204',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   The postcard will rule the roost, for a time, atop a small stack of non-urgent Things To Do, only
@@ -752,9 +754,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '92073917-88fe-45f2-b637-7e249920edcc',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-14T23:48:00.000Z'
+    id: '68b0eb53-735c-4e9a-b07f-ec1c3f07f187',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   Eventually.
@@ -762,9 +764,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'fd09329b-7fb7-44d5-a23b-247d290cc1b9',
-    created_time: '2022-04-14T23:48:00.000Z',
-    last_edited_time: '2022-04-26T21:48:00.000Z'
+    id: 'bf856e11-a463-45f9-a524-fbc66129fe52',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   But for now, Suruchi and Mark are having a good laugh as she fetches supplies to help him mop up.
@@ -773,9 +775,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: 'b3d1571c-5556-44a8-95f6-48b00d0bcc81',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-26T21:51:00.000Z'
+    id: '85cb8454-5d70-47f1-b0f2-e48dfc239771',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   She pops open a kit and starts mopping him up as a set of red-white-and-blues pulls loose from the
@@ -786,9 +788,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '0a29eb8a-6638-4a72-a54b-d19bbbda79a6',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-26T21:52:00.000Z'
+    id: '465a5e96-caf5-4d7e-9eb9-d570aecc116f',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   As Mark sidles over to greet the newcomers, Suruchi stares off in the other direction, out toward
@@ -797,9 +799,9 @@
 <Paragraph
   blockProps={{
     pageId: '8b23e77d88a6400283c7a9e0448f97aa',
-    id: '7ab02909-3fd1-4a41-8723-bd689fb8f978',
-    created_time: '2022-04-13T21:57:00.000Z',
-    last_edited_time: '2022-04-26T21:52:00.000Z'
+    id: '0c2c1213-3559-4351-b27b-9ee72fbb363e',
+    created_time: '2022-06-22T00:10:00.000Z',
+    last_edited_time: '2022-06-22T00:10:00.000Z'
   }}
 >
   Behind her, the victim's blood pools and ripples through valleys in the asphalt. Following gravity
