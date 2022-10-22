@@ -27,7 +27,6 @@
     top: 0;
     width: 100%;
     overflow: hidden;
-    z-index: -1;
   }
 
   .inner-shadow {
