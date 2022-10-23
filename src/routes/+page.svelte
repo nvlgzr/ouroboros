@@ -1,4 +1,5 @@
 <script>
+  import { fade } from 'svelte/transition';
   import IntroAnimation from './intro.svelte';
 </script>
 
@@ -7,4 +8,4 @@
   <meta name="author" content="Elbong Gearny" />
 </svlete:head>
 
-<IntroAnimation />
+<div transition:fade><IntroAnimation /></div>
