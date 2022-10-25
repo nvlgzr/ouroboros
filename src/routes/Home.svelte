@@ -1,10 +1,16 @@
+<script>
+  import { showIntroAnimation } from '$lib/persistentStore';
+</script>
+
 <main>
   <nav>
-    <img
-      class="logo"
-      src="/navelgazer-third-eye.png"
-      alt="A sort of alien head with a brown third eye on its wide forehead"
-    />
+    <div on:click={() => ($showIntroAnimation = true)}>
+      <img
+        class="logo"
+        src="/navelgazer-third-eye.png"
+        alt="A sort of alien head with a brown third eye on its wide forehead"
+      />
+    </div>
   </nav>
   <section>
     <a href="/TheStoryteller/Book/0/Prolog/the-north-tower"> TheStoryteller() </a>
@@ -13,6 +19,10 @@
 </main>
 
 <style>
+  div {
+    cursor: pointer;
+    width: fit-content;
+  }
   main {
     height: 100vh;
     display: flex;

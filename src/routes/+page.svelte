@@ -2,8 +2,7 @@
   import { fade } from 'svelte/transition';
   import IntroAnimation from './Intro.svelte';
   import Home from './Home.svelte';
-
-  let mode: 'intro' | 'home' = 'intro';
+  import { showIntroAnimation } from '$lib/persistentStore';
 </script>
 
 <svlete:head>
@@ -11,14 +10,8 @@
   <meta name="author" content="Elbong Gearny" />
 </svlete:head>
 
-{#if mode === 'intro'}
-  <div id="intro" transition:fade on:click={() => (mode = 'home')}><IntroAnimation /></div>
+{#if $showIntroAnimation}
+  <IntroAnimation />
 {:else}
-  <div id="home" transition:fade on:click={() => (mode = 'intro')}><Home /></div>
+  <Home />
 {/if}
-
-<style>
-  div {
-    cursor: pointer;
-  }
-</style>
