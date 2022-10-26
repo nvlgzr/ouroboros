@@ -28,9 +28,10 @@
     display: flex;
     flex-direction: column;
     gap: 1rem;
+    background-color: hsl(0, 0%, 96%);
   }
   nav {
-    background-color: white;
+    /* background-color: white; */
   }
   section {
     display: flex;
@@ -45,7 +46,7 @@
     align-items: center;
   }
   img {
-    width: 4vw;
+    height: 5vh;
     position: relative;
   }
   a {

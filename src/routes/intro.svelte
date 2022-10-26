@@ -20,6 +20,7 @@
     justify-content: center;
     align-items: center;
     cursor: pointer;
+    background-color: hsl(0, 0%, 96%);
   }
   img {
     max-width: 50vh;
