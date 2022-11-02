@@ -27,6 +27,7 @@
     padding: 1rem 0 0 0;
     color: purple;
     text-align: center;
+    font-family: Unkempt;
   }
   a {
     color: black; /* Prevent standard Link Blue from "leaking" into the svg */
