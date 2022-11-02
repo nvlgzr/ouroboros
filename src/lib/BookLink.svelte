@@ -4,10 +4,12 @@
 </script>
 
 <div class="card">
-  <div class="contents">
-    <slot />
-  </div>
-  <a href={url}>{title}</a>
+  <a href={url}>
+    <div class="contents">
+      <slot />
+    </div>
+    <div class="title">{title}</div>
+  </a>
 </div>
 
 <style>
@@ -20,12 +22,15 @@
   .contents {
     /* background-color: greenyellow; */
   }
-  a {
-    text-decoration: none;
-    color: purple;
-    /* display: block; */
+  .title {
+    /* background-color: greenyellow; */
     padding: 1rem 0 0 0;
+    color: purple;
     text-align: center;
+  }
+  a {
+    color: black; /* Prevent standard Link Blue from "leaking" into the svg */
+    text-decoration: none;
     /* background-color: antiquewhite; */
   }
   a:hover {
