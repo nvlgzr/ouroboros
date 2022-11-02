@@ -20,7 +20,6 @@
     font-size: 3.7rem;
   }
   .raster-underlay {
-    filter: drop-shadow(0.4rem 0.4rem 0.9rem hsl(0, 0%, 0%, 30%));
     width: 11.3rem;
     height: auto;
     /* position: absolute; */
