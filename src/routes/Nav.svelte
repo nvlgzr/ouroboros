@@ -10,7 +10,7 @@
       alt="A sort of alien head with a brown third eye on its wide forehead"
     />
   </div>
-  <div class="menu-item"> <a href="/whats-this-for"><div>WTF</div><div>?</div></a></div>
+  <div class="menu-item wtf"> <a href="/whats-this-for"><div>WTF</div><div>?</div></a></div>
 </nav>
 
 <style>
@@ -48,5 +48,10 @@
     color: plum;
   }
   .menu-item {
+    font-family: 'Rock Salt';
+  }
+  .wtf {
+    line-height: 0.6rem;
+    letter-spacing: -0.1rem;
   }
 </style>
