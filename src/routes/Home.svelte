@@ -1,12 +1,16 @@
 <script>
   import Nav from './Nav.svelte';
+  import Book from '$lib/BookLink.svelte';
+  import StillLifeCover from './StillLifeCover.svelte';
 </script>
 
 <main>
   <Nav />
   <section>
-    <a href="/TheStoryteller/Book/0/Prolog/the-north-tower"> TheStoryteller() </a>
-    <a href="#nyi"> Still Life </a>
+    <Book title="TheStoryteller()" url="/TheStoryteller/Book/0/Prolog/the-north-tower" />
+    <Book title="Still Life" url="/StillLife">
+      <StillLifeCover />
+    </Book>
   </section>
 </main>
 
@@ -23,10 +27,5 @@
     flex-direction: row;
     justify-content: space-around;
     row-gap: 1rem;
-  }
-  a {
-    display: block;
-    padding: 5rem;
-    background-color: antiquewhite;
   }
 </style>
