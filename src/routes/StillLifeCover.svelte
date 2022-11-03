@@ -1,29 +1,47 @@
-<picture>
-  <div>
-    <img class="raster-underlay" src="/still-life-cover_832x1112.png" alt="Life" />
-    <h1>Still</h1>
-  </div>
-</picture>
+<script>
+  export let width = '12rem';
+</script>
+
+<div class="wrapper" style="width: {width}">
+  <vstack>
+    <div class="still">Still</div>
+    <img
+      class="life"
+      src="/life.png"
+      alt="The word 'Life' in a cursive font, filled in with a collage of hand-drawn bits and masked photographs"
+    />
+  </vstack>
+  <img class="bg" src="/still-life-cover.svg" alt="" />
+</div>
 
 <style>
-  div {
-    /* background-color: aqua; */
+  .wrapper {
+    /* background-color: peachpuff; */
     position: relative;
     display: flex;
     justify-content: center;
   }
-  h1 {
-    position: absolute;
+  vstack {
+    /* background-color: hsla(180, 100%, 97%, 0.5); */
+    z-index: 1;
+    aspect-ratio: 832 / 1112;
+  }
+  .still {
+    /* background-color: hsla(110, 100%, 37%, 0.3); */
     font-weight: normal;
-    top: -2rem;
     font-family: Chalkduster;
     font-size: 3.7rem;
+    text-align: center;
+    padding-top: 1.7rem;
   }
-  .raster-underlay {
-    width: 11.3rem;
+  .life {
+    width: 100%;
+    /* background-color: hsla(270, 100%, 37%, 0.3); */
+  }
+  .bg {
+    position: absolute;
+    width: 100%;
     height: auto;
-    /* position: absolute; */
-    top: 8rem;
-    left: 1.75rem;
+    /* display: none; */
   }
 </style>

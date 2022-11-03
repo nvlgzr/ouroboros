@@ -21,7 +21,7 @@
   }
   .contents {
     /* background-color: greenyellow; */
-    border-radius: 0.5vw;
+    border-radius: 0.2rem;
     overflow: hidden;
     filter: drop-shadow(0.4rem 0.4rem 0.9rem hsl(0, 0%, 0%, 30%));
   }
