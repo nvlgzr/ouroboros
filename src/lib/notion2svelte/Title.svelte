@@ -2,7 +2,6 @@
 
 <style>
   span {
-    font-weight: 300;
     line-height: 1.2;
     font-size: 3.2rem;
     font-family: 'Noto Serif Display', serif;
