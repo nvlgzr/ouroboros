@@ -1,10 +1,8 @@
-<span><slot /></span>
+<span class="title"><slot /></span>
 
 <style>
   span {
     line-height: 1.2;
-    font-size: 3.2rem;
-    font-family: 'Noto Serif Display', serif;
     cursor: text;
     display: flex;
     align-items: center;
