@@ -74,12 +74,15 @@
     margin: 1rem 2rem;
     text-decoration: none;
     font-family: 'Noto Serif Display';
-    font-size: 3rem;
+    font-size: min(3rem, 3.5vw);
+  }
+  a:hover {
+    filter: brightness(55%);
   }
   a[href='/'] {
     font-family: 'Rock Salt';
-    font-size: 1.5rem;
+    font-size: min(1.5rem, 2.5vw);
+    vertical-align: baseline;
     position: relative;
-    top: 0.2rem; /* Just looks better to me this way 🤷🏽 */
   }
 </style>
