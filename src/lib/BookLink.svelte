@@ -25,9 +25,9 @@
   }
   .title {
     padding: 1rem 0 0 0;
-    color: purple;
     text-align: center;
     font-family: Unkempt;
+    font-size: 1.75rem;
   }
   a {
     color: black; /* Prevent standard Link Blue from "leaking" into the svg */
