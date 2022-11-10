@@ -34,7 +34,7 @@
     text-decoration: none;
     /* background-color: antiquewhite; */
   }
-  a:hover {
-    color: black;
+  .card:hover .title {
+    color: plum;
   }
 </style>

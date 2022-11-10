@@ -21,4 +21,7 @@
     height: auto;
     /* display: none; */
   }
+  .bg:hover {
+    color: black;
+  }
 </style>
