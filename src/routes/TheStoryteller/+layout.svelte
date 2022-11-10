@@ -9,7 +9,7 @@
   <vstack>
     <img src="/the-storyteller-footer.svg" alt="" />
     <hstack>
-      <a href="/TheStoryteller/nyi">TheStoryteller()</a>
+      <a href="/TheStoryteller">TheStoryteller()</a>
       <div stretch class="copyright">©2022 Elbong Gearny</div>
       <a href="/">navelgazer.club</a>
     </hstack>
