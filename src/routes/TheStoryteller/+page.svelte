@@ -27,7 +27,8 @@
     line-height: 5rem;
   }
   h2 {
-    line-height: 2rem;
+    line-height: 1.7rem;
+    letter-spacing: 0.04rem;
   }
   .unfinished {
     color: hsla(169, 15%, 86%, 1);
