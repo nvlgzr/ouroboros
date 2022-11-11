@@ -25,6 +25,10 @@
     --display-font: 100 1.6rem/1.6rem 'Noto Serif Display', serif / 3.2rem;
     --reading-width: 42rem;
   }
+  :global(a) {
+    text-decoration: none;
+    color: inherit;
+  }
   :global(.title) {
     font-family: 'Noto Serif Display';
     font-size: 3.2rem;
