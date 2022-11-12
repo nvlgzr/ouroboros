@@ -1,35 +1,35 @@
 <script>
   const unfinished = [
-    'chapter(02): An Impossible Book',
-    'chapter(03): Arrives a Guest, Unexpected',
-    'chapter(04): The Book of A⋂A',
-    'chapter(05): Matter Over Mind',
-    'chapter(06): Sense in the Stream',
-    'chapter(07): Casting Spells',
-    'chapter(08): A Thriving Hive',
-    'chapter(09): I Reaches Out',
-    'chapter(10): Bugs',
-    'chapter(11): Miami to Atlantis',
-    'chapter(12): Q&A',
-    'chapter(13): Hyphema',
-    'chapter(14): Exile',
-    'chapter(15): Silence',
-    'chapter(16): Making New Connections',
-    'chapter(17): Captivity',
-    'chapter(18): Dreamless',
-    'chapter(19): MitM',
-    'chapter(20): A Singularity',
-    'chapter(21): A New Mission',
-    'chapter(22): Inside the Mind of a Lunatic',
-    'chapter(23): Waking Up',
-    'chapter(24): Epilog'
+    '02. An Impossible Book',
+    '03. Arrives a Guest, Unexpected',
+    '04. The Book of A⋂A',
+    '05. Matter Over Mind',
+    '06. Sense in the Stream',
+    '07. Casting Spells',
+    '08. A Thriving Hive',
+    '09. I Reaches Out',
+    '10. Bugs',
+    '11. Miami to Atlantis',
+    '12. Q&A',
+    '13. Hyphema',
+    '14. Exile',
+    '15. Silence',
+    '16. Making New Connections',
+    '17. Captivity',
+    '18. Dreamless',
+    '19. MitM',
+    '20. A Singularity',
+    '21. A New Mission',
+    '22. Inside the Mind of a Lunatic',
+    '23. Waking Up',
+    '24. Epilog'
   ];
 </script>
 
 <h1 class="title">TheStoryteller()</h1>
 
 <h2>
-  <a href="/TheStoryteller/Book/0/Prolog/the-north-tower">chapter(0): The North Tower (prolog) </a>
+  <a href="/TheStoryteller/Book/0/Prolog/the-north-tower">00. The North Tower (prolog) </a>
 </h2>
 
 {#each unfinished as chapter}
@@ -41,10 +41,19 @@
     line-height: 5rem;
   }
   h2 {
-    line-height: 1.7rem;
+    font-size: min(1.5rem, 5vw);
+    line-height: 1.25rem;
     letter-spacing: 0.04rem;
+    padding: 0.25rem 0.5rem;
   }
   .unfinished {
     color: hsla(169, 15%, 86%, 1);
+  }
+  @media (hover: none) {
+    a {
+      background-color: hsla(169, 15%, 94%, 1);
+      padding: 0.25rem 0.5rem;
+      border-radius: 0.25rem;
+    }
   }
 </style>
