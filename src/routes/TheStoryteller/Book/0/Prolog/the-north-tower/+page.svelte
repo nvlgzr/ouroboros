@@ -22,7 +22,6 @@
   import Quote from '$lib/notion2svelte/Quote.svelte';
   import TodoItem from '$lib/notion2svelte/TodoItem.svelte';
   import Toggle from '$lib/notion2svelte/Toggle.svelte';
-
   import { setContext } from 'svelte';
 
   setContext('pageStuff', {
@@ -30,8 +29,8 @@
     title: 'The North Tower',
     coverAltText:
       'The top of the north tower of the Golden Gate Bridge, peeking out from a sunset-painted fog.',
-    coverCreditAuthor: 'Riley, with modifications',
-    coverCreditURL: 'https://unsplash.com/photos/eEljzRILh4I'
+    coverCreditURL: 'https://unsplash.com/photos/eEljzRILh4I',
+    coverCreditAuthor: 'Riley, with modifications'
   });
 </script>
 
