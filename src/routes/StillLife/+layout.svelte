@@ -1,7 +1,14 @@
+<script>
+  import Footer from './Footer.svelte';
+</script>
+
 <main>
-  <vstack stretch>
-    <slot />
-  </vstack>
+  <section>
+    <vstack stretch>
+      <slot />
+    </vstack>
+  </section>
+  <Footer />
 </main>
 
 <style>

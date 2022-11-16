@@ -10,8 +10,8 @@
     <div class="content"><slot /></div>
     <div class="right">&nbsp;</div>
   </section>
-  <Footer /></main
->
+  <Footer />
+</main>
 
 <style>
   :global(:root) {

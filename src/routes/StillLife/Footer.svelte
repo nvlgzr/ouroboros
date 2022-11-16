@@ -1,12 +1,12 @@
 <script>
+  import StillLife from './../StillLife.svelte';
   import Copyright from '$lib/Copyright.svelte';
   import SiteLink from '$lib/SiteLink.svelte';
 </script>
 
 <vstack>
-  <img src="/the-storyteller-footer.svg" alt="" />
   <hstack>
-    <a href="/TheStoryteller">TheStoryteller()</a>
+    <StillLife />
     <Copyright />
     <SiteLink />
   </hstack>

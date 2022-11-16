@@ -10,8 +10,6 @@
   <spacer />
   <h1><a href="/StillLife/bookends">Bookends</a></h1>
   <spacer />
-  <h1>Vampire, revisited</h1>
-  <spacer />
 </vstack>
 
 <style>
