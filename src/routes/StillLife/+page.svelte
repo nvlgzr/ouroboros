@@ -2,29 +2,33 @@
   import StillLife from '../StillLife.svelte';
 </script>
 
-<main>
-  <vstack align-x="center" stretch>
-    <spacer />
-    <div class="container">
-      <StillLife />
-    </div>
-    <spacer />
-    <h1>Bookends</h1>
-    <spacer />
-    <h1>Vampire, revisited</h1>
-    <spacer />
-  </vstack>
-</main>
+<vstack align-x="center" stretch>
+  <spacer />
+  <div class="logo">
+    <StillLife />
+  </div>
+  <spacer />
+  <h1><a href="/StillLife/bookends">Bookends</a></h1>
+  <spacer />
+  <h1>Vampire, revisited</h1>
+  <spacer />
+</vstack>
 
 <style>
-  main {
-    height: 100vh;
-    font-family: Unkempt;
-    color: hsl(169, 15%, 14%);
-    background: radial-gradient(50% 133.13% at 50% 50%, white 0% 20%, hsl(17, 20%, 93%) 100%);
+  h1 {
+    pointer-events: none;
+    transform: skew(5deg, 5deg) !important;
   }
-  .container {
+  a {
+    pointer-events: auto;
+    text-decoration: none;
+    color: hsl(169, 15%, 14%);
+  }
+  h1:hover,
+  a:hover {
+    color: hsl(169, 25%, 44%);
+  }
+  .logo {
     width: 12rem;
-    /* background-color: beige; */
   }
 </style>
