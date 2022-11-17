@@ -27,11 +27,6 @@
     <code>{@html code}</code>
   {/if}
 </pre>
-<div>
-  {#if $$slots.default}
-    <div><slot /></div>
-  {/if}
-</div>
 
 <style>
   code {
@@ -52,12 +47,5 @@
     word-wrap: break-word;
     color: hsl(120, 11%, 23%);
     font-size: 0.75rem;
-  }
-
-  div {
-    /* caption text */
-    font-size: 0.8rem;
-    color: hsl(120, 78%, 7%);
-    margin: 0.5rem 1rem 0.5rem 0;
   }
 </style>
