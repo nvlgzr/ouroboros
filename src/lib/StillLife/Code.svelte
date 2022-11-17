@@ -17,7 +17,11 @@
 
   // https://stackoverflow.com/questions/1912501/unescape-html-entities-in-javascript
   const decode = (html) => {
-    var doc = new DOMParser().parseFromString(html, 'text/html');
+    const withBiggenedBlock = html.replace(
+      '■',
+      '&lt;p style="font-size:min(2.5rem, 8vw);position:relative; left: -0.5vw;"&gt;■&lt;/p&gt;'
+    );
+    const doc = new DOMParser().parseFromString(withBiggenedBlock, 'text/html');
     return doc.documentElement.textContent;
   };
 </script>
