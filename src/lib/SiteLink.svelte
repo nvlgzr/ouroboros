@@ -3,7 +3,7 @@
 <style>
   @media (hover: none) {
     a {
-      background-color: hsla(169, 15%, 94%, 0.5);
+      background-color: hsl(169, 25%, 93%);
       padding: min(0.25rem, 0.5vw) 0.5rem;
       border-radius: 0.25rem;
     }
@@ -20,7 +20,7 @@
   }
   a[href='/'] {
     font-family: 'Rock Salt';
-    font-size: min(1.5rem, 2.5vw);
+    font-size: min(2rem, 2.5vw);
     vertical-align: baseline;
     position: relative;
   }

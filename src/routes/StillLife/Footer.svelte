@@ -14,7 +14,6 @@
 
 <style>
   hstack {
-    position: relative;
     margin-top: 4rem;
     font: 100 1.6rem 'Noto Serif', serif;
     max-width: min(80rem, 100vw);

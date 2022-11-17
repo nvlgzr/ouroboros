@@ -41,7 +41,7 @@
   }
   @media (hover: none) {
     a {
-      background-color: hsla(169, 15%, 94%, 0.5);
+      background-color: hsl(169, 25%, 93%);
       padding: min(0.25rem, 1.5vw) 0.5rem;
       border-radius: 0.25rem;
     }
