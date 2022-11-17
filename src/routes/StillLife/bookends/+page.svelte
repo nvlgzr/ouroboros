@@ -80,11 +80,4 @@ all the bookends we bought:
 
 ■`}
   language="plain text"
-/><Paragraph
-  blockProps={{
-    pageId: '9be3541630f74527a2f506ac6dd19a34',
-    id: '070ed952-e809-4e35-8cf8-46483985ecd9',
-    created_time: '2022-07-27T20:05:00.000Z',
-    last_edited_time: '2022-07-27T20:05:00.000Z'
-  }}
 />
