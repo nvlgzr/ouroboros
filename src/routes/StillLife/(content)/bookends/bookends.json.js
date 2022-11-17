@@ -2,7 +2,7 @@ const json = {
   "object": "page",
   "id": "9be35416-30f7-4527-a2f5-06ac6dd19a34",
   "created_time": "2022-07-27T20:05:00.000Z",
-  "last_edited_time": "2022-11-17T04:14:00.000Z",
+  "last_edited_time": "2022-11-17T04:55:00.000Z",
   "created_by": {
     "object": "user",
     "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
@@ -76,7 +76,7 @@ const json = {
     "Last edited": {
       "id": "hs%5CU",
       "type": "last_edited_time",
-      "last_edited_time": "2022-11-17T04:14:00.000Z"
+      "last_edited_time": "2022-11-17T04:55:00.000Z"
     },
     "Created": {
       "id": "q%3A%7Dm",
