@@ -16,7 +16,7 @@
     font-size: min(3rem, 3.5vw);
   }
   a:hover {
-    filter: brightness(55%);
+    color: plum;
   }
   a[href='/'] {
     font-family: 'Rock Salt';
