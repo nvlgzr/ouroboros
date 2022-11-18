@@ -2,6 +2,13 @@
   import StillLife from '../StillLife.svelte';
 </script>
 
+<a href="/">
+  <img
+    src="/skulking-skuller.svg"
+    alt="In the corner of the 'page', the skuller lurks, pearing at you over a fold in the 'paper'."
+  />
+</a>
+
 <vstack align-x="center" stretch>
   <spacer />
   <div class="logo">
@@ -36,5 +43,11 @@
   }
   .logo {
     width: 12rem;
+  }
+  img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: min(15rem, 30vw);
   }
 </style>
