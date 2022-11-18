@@ -26,6 +26,14 @@
   a:hover {
     color: hsl(169, 25%, 44%);
   }
+  @media (hover: none) {
+    h1,
+    a {
+      background-color: hsl(169, 25%, 93%);
+      padding: min(0.25rem, 0.5vw) 0.5rem;
+      border-radius: 0.25rem;
+    }
+  }
   .logo {
     width: 12rem;
   }
