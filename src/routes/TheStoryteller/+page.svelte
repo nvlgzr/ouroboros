@@ -1,4 +1,6 @@
 <script>
+  import Chapter from './Chapter.svelte';
+
   const unfinished = [
     '02. An Impossible Book',
     '03. Arrives a Guest, Unexpected',
@@ -28,32 +30,22 @@
 
 <h1 class="title">TheStoryteller()</h1>
 
-<h2>
-  <a href="/TheStoryteller/Book/0/Prolog/the-north-tower">00. The North Tower (prolog) </a>
-</h2>
+<Chapter url="/TheStoryteller/Book/0/Prolog/the-north-tower">00. The North Tower (prolog)</Chapter>
 
 {#each unfinished as chapter}
-  <h2 class="unfinished">{chapter}</h2>
+  <Chapter nyw>{chapter}</Chapter>
 {/each}
 
 <style>
   h1 {
+    color: hsl(169, 15%, 14%);
     line-height: 5rem;
+    font-weight: 350;
   }
   h2 {
-    font-size: min(1.5rem, 5vw);
-    line-height: 1.25rem;
-    letter-spacing: 0.04rem;
-    padding: 0.25rem 0.5rem;
+    margin: min(1rem, 4.5vw) 0.5rem;
   }
   .unfinished {
     color: hsla(169, 15%, 86%, 1);
-  }
-  @media (hover: none) {
-    a {
-      background-color: hsla(169, 15%, 94%, 1);
-      padding: 0.25rem 0.5rem;
-      border-radius: 0.25rem;
-    }
   }
 </style>
