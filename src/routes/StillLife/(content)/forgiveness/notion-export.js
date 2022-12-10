@@ -2,7 +2,7 @@ const json = {
   "object": "page",
   "id": "0e25af4c-4cd1-4c84-8517-5fad79af79b2",
   "created_time": "2022-12-09T22:50:00.000Z",
-  "last_edited_time": "2022-12-10T00:41:00.000Z",
+  "last_edited_time": "2022-12-10T01:02:00.000Z",
   "created_by": {
     "object": "user",
     "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
@@ -110,7 +110,7 @@ const json = {
     "Last edited": {
       "id": "hs%5CU",
       "type": "last_edited_time",
-      "last_edited_time": "2022-12-10T00:41:00.000Z"
+      "last_edited_time": "2022-12-10T01:02:00.000Z"
     },
     "Created": {
       "id": "q%3A%7Dm",
@@ -202,7 +202,7 @@ const json = {
         "page_id": "0e25af4c-4cd1-4c84-8517-5fad79af79b2"
       },
       "created_time": "2022-12-09T22:50:00.000Z",
-      "last_edited_time": "2022-12-09T23:30:00.000Z",
+      "last_edited_time": "2022-12-10T01:02:00.000Z",
       "created_by": {
         "object": "user",
         "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
@@ -238,7 +238,7 @@ const json = {
           {
             "type": "text",
             "text": {
-              "content": "Time passed",
+              "content": "Time Passed",
               "link": null
             },
             "annotations": {
@@ -249,7 +249,7 @@ const json = {
               "code": false,
               "color": "default"
             },
-            "plain_text": "Time passed",
+            "plain_text": "Time Passed",
             "href": null
           },
           {

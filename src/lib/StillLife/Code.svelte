@@ -1,5 +1,8 @@
 <script>
   import { onMount } from 'svelte';
+  import { getContext } from 'svelte';
+
+  const { next, previous } = getContext('pageStuff');
 
   export let code = '';
 
@@ -30,6 +33,18 @@
 <pre>
   {#if mounted}
     <code>{@html code}</code>
+    <div class="pageturners">
+    {#if previous.length}
+        <div>
+          <a href={`/StillLife${previous}`}>꧁ {previous.replace(/^\//, '')}</a>
+      </div>
+      {/if}
+    {#if next.length}
+        <div>
+        <a href={`/StillLife${next}`}>{next.replace(/^\//, '')} ꧂</a>
+      </div>
+      {/if}
+  </div>
   {/if}
 </pre>
 
@@ -45,12 +60,26 @@
     font-family: Inter, sans-serif;
     position: relative;
     line-height: normal;
-    /* display: block; */
-    /* border-radius: 0.5rem; */
-    /* overflow-x: auto; */
     white-space: pre-wrap;
     word-wrap: break-word;
     color: hsl(120, 11%, 23%);
     font-size: 0.75rem;
+    margin-left: min(2rem, 5vw);
+    margin-right: min(2rem, 5vw);
+  }
+
+  a {
+    text-decoration: none;
+    color: hsl(120, 11%, 23%);
+    display: block;
+  }
+
+  a:hover {
+    color: hsl(168, 20%, 65%);
+  }
+
+  .pageturners {
+    display: flex;
+    justify-content: space-between;
   }
 </style>

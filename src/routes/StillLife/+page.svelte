@@ -15,7 +15,19 @@
     <StillLife />
   </div>
   <spacer />
-  <h1><a href="/StillLife/bookends">Bookends</a></h1>
+  <h1><a href="/StillLife/bookends">page 1</a></h1>
+  <spacer />
+  <h1><a href="/StillLife/forgiveness">page 2</a></h1>
+  <spacer />
+  <h1><a href="/StillLife/malespero">page 3</a></h1>
+  <spacer />
+  <h1><a href="/StillLife/" class="disabled">page 4</a></h1>
+  <spacer />
+  <h1><a href="/StillLife/" class="disabled">page 5</a></h1>
+  <spacer />
+  <h1><a href="/StillLife/" class="disabled">page 6</a></h1>
+  <spacer />
+  <h1><a href="/StillLife/" class="disabled">page 7</a></h1>
   <spacer />
 </vstack>
 
@@ -32,6 +44,9 @@
   h1:hover,
   a:hover {
     color: hsl(169, 25%, 44%);
+  }
+  .disabled {
+    color: hsl(169, 25%, 84%);
   }
   @media (hover: none) {
     h1,
