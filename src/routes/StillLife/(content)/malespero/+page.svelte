@@ -1,34 +1,35 @@
 <script>
-  import Error from '$lib/StillLife/Error.svelte';
-  import Cover from '$lib/StillLife/Cover.svelte';
-  import Title from '$lib/StillLife/Title.svelte';
-  import BulletedListItem from '$lib/StillLife/BulletedListItem.svelte';
-  import Callout from '$lib/StillLife/Callout.svelte';
-  import ChildPage from '$lib/StillLife/ChildPage.svelte';
-  import Code from '$lib/StillLife/Code.svelte';
-  import ColumnList from '$lib/StillLife/ColumnList.svelte';
-  import Column from '$lib/StillLife/Column.svelte';
-  import Divider from '$lib/StillLife/Divider.svelte';
-  import Embed from '$lib/StillLife/Embed.svelte';
-  import Header from '$lib/StillLife/Header.svelte';
-  import Image from '$lib/StillLife/Image.svelte';
-  import IndentGroup from '$lib/StillLife/IndentGroup.svelte';
-  import Underline from '$lib/StillLife/Underline.svelte';
-  import InlineCode from '$lib/StillLife/InlineCode.svelte';
-  import InlineColor from '$lib/StillLife/InlineColor.svelte';
-  import Equation from '$lib/StillLife/Equation.svelte';
-  import Link from '$lib/StillLife/Link.svelte';
-  import NumberedListItem from '$lib/StillLife/NumberedListItem.svelte';
-  import Paragraph from '$lib/StillLife/Paragraph.svelte';
-  import Quote from '$lib/StillLife/Quote.svelte';
-  import TodoItem from '$lib/StillLife/TodoItem.svelte';
-  import Toggle from '$lib/StillLife/Toggle.svelte';
+  import Error from '$lib/notion2svelte/Error.svelte';
+  import Cover from '$lib/notion2svelte/Cover.svelte';
+  import Title from '$lib/notion2svelte/Title.svelte';
+  import BulletedListItem from '$lib/notion2svelte/BulletedListItem.svelte';
+  import Callout from '$lib/notion2svelte/Callout.svelte';
+  import ChildPage from '$lib/notion2svelte/ChildPage.svelte';
+  import Code from '$lib/notion2svelte/Code.svelte';
+  import ColumnList from '$lib/notion2svelte/ColumnList.svelte';
+  import Column from '$lib/notion2svelte/Column.svelte';
+  import Divider from '$lib/notion2svelte/Divider.svelte';
+  import Embed from '$lib/notion2svelte/Embed.svelte';
+  import Header from '$lib/notion2svelte/Header.svelte';
+  import Image from '$lib/notion2svelte/Image.svelte';
+  import IndentGroup from '$lib/notion2svelte/IndentGroup.svelte';
+  import Underline from '$lib/notion2svelte/Underline.svelte';
+  import InlineCode from '$lib/notion2svelte/InlineCode.svelte';
+  import InlineColor from '$lib/notion2svelte/InlineColor.svelte';
+  import Equation from '$lib/notion2svelte/Equation.svelte';
+  import Link from '$lib/notion2svelte/Link.svelte';
+  import NumberedListItem from '$lib/notion2svelte/NumberedListItem.svelte';
+  import Paragraph from '$lib/notion2svelte/Paragraph.svelte';
+  import Quote from '$lib/notion2svelte/Quote.svelte';
+  import TodoItem from '$lib/notion2svelte/TodoItem.svelte';
+  import Toggle from '$lib/notion2svelte/Toggle.svelte';
   import { setContext } from 'svelte';
 
   setContext('pageStuff', {
     pageId: '4166783ee4a644258d71fa8c1ee8e162',
     title: 'malespero',
-    n2sLib: '$lib/StillLife'
+    previous: '/forgiveness',
+    next: ''
   });
 </script>
 

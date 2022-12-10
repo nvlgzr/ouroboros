@@ -27,6 +27,16 @@ const json = {
         "string": "https://navelgazer.club/StillLife/malespero"
       }
     },
+    "§previous": {
+      "id": "C%7DnU",
+      "type": "relation",
+      "relation": [
+        {
+          "id": "0e25af4c-4cd1-4c84-8517-5fad79af79b2"
+        }
+      ],
+      "has_more": false
+    },
     "Status": {
       "id": "D%60yI",
       "type": "select",
@@ -45,6 +55,12 @@ const json = {
       "id": "E_k%5E",
       "type": "rich_text",
       "rich_text": []
+    },
+    "§next": {
+      "id": "QhUz",
+      "type": "relation",
+      "relation": [],
+      "has_more": false
     },
     "Next Draft": {
       "id": "a%3BJF",

@@ -2,7 +2,7 @@ const json = {
   "object": "page",
   "id": "0e25af4c-4cd1-4c84-8517-5fad79af79b2",
   "created_time": "2022-12-09T22:50:00.000Z",
-  "last_edited_time": "2022-12-09T23:30:00.000Z",
+  "last_edited_time": "2022-12-10T00:41:00.000Z",
   "created_by": {
     "object": "user",
     "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
@@ -27,6 +27,16 @@ const json = {
         "string": "https://navelgazer.club/StillLife/forgiveness"
       }
     },
+    "§previous": {
+      "id": "C%7DnU",
+      "type": "relation",
+      "relation": [
+        {
+          "id": "9be35416-30f7-4527-a2f5-06ac6dd19a34"
+        }
+      ],
+      "has_more": false
+    },
     "Status": {
       "id": "D%60yI",
       "type": "select",
@@ -49,6 +59,16 @@ const json = {
       "id": "E_k%5E",
       "type": "rich_text",
       "rich_text": []
+    },
+    "§next": {
+      "id": "QhUz",
+      "type": "relation",
+      "relation": [
+        {
+          "id": "4166783e-e4a6-4425-8d71-fa8c1ee8e162"
+        }
+      ],
+      "has_more": false
     },
     "Next Draft": {
       "id": "a%3BJF",
@@ -90,7 +110,7 @@ const json = {
     "Last edited": {
       "id": "hs%5CU",
       "type": "last_edited_time",
-      "last_edited_time": "2022-12-09T23:30:00.000Z"
+      "last_edited_time": "2022-12-10T00:41:00.000Z"
     },
     "Created": {
       "id": "q%3A%7Dm",
@@ -155,7 +175,7 @@ const json = {
         {
           "type": "text",
           "text": {
-            "content": "forgiveness",
+            "content": "Forgiveness",
             "link": null
           },
           "annotations": {
@@ -166,13 +186,13 @@ const json = {
             "code": false,
             "color": "default"
           },
-          "plain_text": "forgiveness",
+          "plain_text": "Forgiveness",
           "href": null
         }
       ]
     }
   },
-  "url": "https://www.notion.so/forgiveness-0e25af4c4cd14c8485175fad79af79b2",
+  "url": "https://www.notion.so/Forgiveness-0e25af4c4cd14c8485175fad79af79b2",
   "blocks": [
     {
       "object": "block",
