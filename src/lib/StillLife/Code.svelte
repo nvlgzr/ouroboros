@@ -17,7 +17,8 @@
 
   // https://stackoverflow.com/questions/1912501/unescape-html-entities-in-javascript
   const decode = (html) => {
-    const withBiggenedBlock = html.replace(
+    const withWideFrontSpaces = html.replace(/  /g, '&emsp;&emsp;');
+    const withBiggenedBlock = withWideFrontSpaces.replace(
       '■',
       '&lt;span style="font-size:min(2.5rem, 8vw);position:relative; left: -0.5vw;"&gt;■&lt;/span&gt;'
     );
