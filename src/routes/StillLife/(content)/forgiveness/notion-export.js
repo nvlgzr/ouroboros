@@ -1,8 +1,8 @@
 const json = {
   "object": "page",
-  "id": "0e25af4c-4cd1-4c84-8517-5fad79af79b2",
-  "created_time": "2022-12-09T22:50:00.000Z",
-  "last_edited_time": "2022-12-10T01:02:00.000Z",
+  "id": "0edcc205-aa97-4a3a-a4d6-bdefc804ba58",
+  "created_time": "2022-12-13T22:09:00.000Z",
+  "last_edited_time": "2022-12-13T22:12:00.000Z",
   "created_by": {
     "object": "user",
     "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
@@ -19,6 +19,38 @@ const json = {
   },
   "archived": false,
   "properties": {
+    "prevPage": {
+      "id": "BHqW",
+      "type": "rollup",
+      "rollup": {
+        "type": "array",
+        "array": [
+          {
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "bookends",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "bookends",
+                "href": null
+              }
+            ]
+          }
+        ],
+        "function": "show_original"
+      }
+    },
     "Public URL": {
       "id": "CBit",
       "type": "formula",
@@ -36,6 +68,38 @@ const json = {
         }
       ],
       "has_more": false
+    },
+    "nextPage": {
+      "id": "D%5CYc",
+      "type": "rollup",
+      "rollup": {
+        "type": "array",
+        "array": [
+          {
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "malespero",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "malespero",
+                "href": null
+              }
+            ]
+          }
+        ],
+        "function": "show_original"
+      }
     },
     "Status": {
       "id": "D%60yI",
@@ -110,19 +174,19 @@ const json = {
     "Last edited": {
       "id": "hs%5CU",
       "type": "last_edited_time",
-      "last_edited_time": "2022-12-10T01:02:00.000Z"
+      "last_edited_time": "2022-12-13T22:12:00.000Z"
     },
     "Created": {
       "id": "q%3A%7Dm",
       "type": "created_time",
-      "created_time": "2022-12-09T22:50:00.000Z"
+      "created_time": "2022-12-13T22:09:00.000Z"
     },
     "Previous Draft": {
       "id": "qdTh",
       "type": "relation",
       "relation": [
         {
-          "id": "59376d31-41d0-41ba-aeb1-62efdea76db9"
+          "id": "0e25af4c-4cd1-4c84-8517-5fad79af79b2"
         }
       ],
       "has_more": false
@@ -192,17 +256,17 @@ const json = {
       ]
     }
   },
-  "url": "https://www.notion.so/Forgiveness-0e25af4c4cd14c8485175fad79af79b2",
+  "url": "https://www.notion.so/Forgiveness-0edcc205aa974a3aa4d6bdefc804ba58",
   "blocks": [
     {
       "object": "block",
-      "id": "c287f5a8-169b-421e-8a0d-a0def7ced23b",
+      "id": "9fb04461-2713-4075-be19-781b83034555",
       "parent": {
         "type": "page_id",
-        "page_id": "0e25af4c-4cd1-4c84-8517-5fad79af79b2"
+        "page_id": "0edcc205-aa97-4a3a-a4d6-bdefc804ba58"
       },
-      "created_time": "2022-12-09T22:50:00.000Z",
-      "last_edited_time": "2022-12-10T01:02:00.000Z",
+      "created_time": "2022-12-13T22:09:00.000Z",
+      "last_edited_time": "2022-12-13T22:12:00.000Z",
       "created_by": {
         "object": "user",
         "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
@@ -255,7 +319,7 @@ const json = {
           {
             "type": "text",
             "text": {
-              "content": " as irretrievable\n  understands the fiction of self-styled facts\n  ",
+              "content": " as irretrievable\n  understanding the fiction of self-styled facts:\n  ",
               "link": null
             },
             "annotations": {
@@ -266,7 +330,7 @@ const json = {
               "code": false,
               "color": "default"
             },
-            "plain_text": " as irretrievable\n  understands the fiction of self-styled facts\n  ",
+            "plain_text": " as irretrievable\n  understanding the fiction of self-styled facts:\n  ",
             "href": null
           },
           {
@@ -323,7 +387,7 @@ const json = {
           {
             "type": "text",
             "text": {
-              "content": "\n\ncomes before the offense\n  it takes the tapestry down\n  stitches over the wound\n  writes the villain out of the story\n  (else, it was not forgiveness, but a painful facsimile)\n\nlifts the heart\n  for it is a kindness to give\n  more so to ",
+              "content": "\n\ncomes be",
               "link": null
             },
             "annotations": {
@@ -334,7 +398,75 @@ const json = {
               "code": false,
               "color": "default"
             },
-            "plain_text": "\n\ncomes before the offense\n  it takes the tapestry down\n  stitches over the wound\n  writes the villain out of the story\n  (else, it was not forgiveness, but a painful facsimile)\n\nlifts the heart\n  for it is a kindness to give\n  more so to ",
+            "plain_text": "\n\ncomes be",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "fore",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "fore",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " the offense\n  it takes the tapestry down\n  stitches over the wound\n  writes the villain out of the story\n  (else, it was not ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " the offense\n  it takes the tapestry down\n  stitches over the wound\n  writes the villain out of the story\n  (else, it was not ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "for",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "for",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "giveness, but a painful facsimile)\n\nlifts the heart\n  for it is a kindness to give\n  more so to ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "giveness, but a painful facsimile)\n\nlifts the heart\n  for it is a kindness to give\n  more so to ",
             "href": null
           },
           {
@@ -444,13 +576,13 @@ const json = {
     },
     {
       "object": "block",
-      "id": "7fa484b8-a539-4c3a-83b8-bf8192f2808c",
+      "id": "244cfea9-fb60-450e-86d8-18072e7a45cd",
       "parent": {
         "type": "page_id",
-        "page_id": "0e25af4c-4cd1-4c84-8517-5fad79af79b2"
+        "page_id": "0edcc205-aa97-4a3a-a4d6-bdefc804ba58"
       },
-      "created_time": "2022-12-09T22:50:00.000Z",
-      "last_edited_time": "2022-12-09T22:50:00.000Z",
+      "created_time": "2022-12-13T22:09:00.000Z",
+      "last_edited_time": "2022-12-13T22:09:00.000Z",
       "created_by": {
         "object": "user",
         "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
