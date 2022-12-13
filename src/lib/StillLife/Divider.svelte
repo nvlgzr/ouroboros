@@ -1,11 +1,7 @@
-<script>
-  import divider from './divider.svg';
-</script>
-
-<img src={divider} alt="Fancy horizontal divider" />
+<hr />
 
 <style>
-  img {
+  hr {
     width: 75%;
     height: auto;
     margin: 0 auto;
