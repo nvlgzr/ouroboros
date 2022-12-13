@@ -23,7 +23,7 @@
     const withWideFrontSpaces = html.replace(/  /g, '&emsp;&emsp;');
     const withBiggenedBlock = withWideFrontSpaces.replace(
       '■',
-      '&lt;span style="font-size:min(2.5rem, 8vw);position:relative; left: -0.5vw;"&gt;■&lt;/span&gt;'
+      '&lt;span style="font-size:min(2.5rem, 8vw);position:relative; left: -0.25vw;"&gt;■&lt;/span&gt;'
     );
     const doc = new DOMParser().parseFromString(withBiggenedBlock, 'text/html');
     return doc.documentElement.textContent;
