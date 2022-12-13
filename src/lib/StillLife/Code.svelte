@@ -72,6 +72,7 @@
     text-decoration: none;
     color: hsl(120, 11%, 23%);
     display: block;
+    margin-right: 1rem;
   }
 
   a:hover {
