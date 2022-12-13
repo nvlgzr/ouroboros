@@ -2,7 +2,7 @@ const json = {
   "object": "page",
   "id": "4166783e-e4a6-4425-8d71-fa8c1ee8e162",
   "created_time": "2022-12-10T00:32:00.000Z",
-  "last_edited_time": "2022-12-13T05:40:00.000Z",
+  "last_edited_time": "2022-12-13T22:34:00.000Z",
   "created_by": {
     "object": "user",
     "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
@@ -46,28 +46,6 @@ const json = {
                 "href": null
               }
             ]
-          },
-          {
-            "type": "rich_text",
-            "rich_text": [
-              {
-                "type": "text",
-                "text": {
-                  "content": "forgiveness",
-                  "link": null
-                },
-                "annotations": {
-                  "bold": false,
-                  "italic": false,
-                  "strikethrough": false,
-                  "underline": false,
-                  "code": false,
-                  "color": "default"
-                },
-                "plain_text": "forgiveness",
-                "href": null
-              }
-            ]
           }
         ],
         "function": "show_original"
@@ -85,9 +63,6 @@ const json = {
       "id": "C%7DnU",
       "type": "relation",
       "relation": [
-        {
-          "id": "0e25af4c-4cd1-4c84-8517-5fad79af79b2"
-        },
         {
           "id": "0edcc205-aa97-4a3a-a4d6-bdefc804ba58"
         }
@@ -150,7 +125,7 @@ const json = {
       "type": "relation",
       "relation": [
         {
-          "id": "52e29fd5-7cfe-4e64-a374-57878cea851d"
+          "id": "60165d5f-3690-4448-b85b-1c2dbb593409"
         }
       ],
       "has_more": false
@@ -195,7 +170,7 @@ const json = {
     "Last edited": {
       "id": "hs%5CU",
       "type": "last_edited_time",
-      "last_edited_time": "2022-12-13T05:40:00.000Z"
+      "last_edited_time": "2022-12-13T22:34:00.000Z"
     },
     "Created": {
       "id": "q%3A%7Dm",

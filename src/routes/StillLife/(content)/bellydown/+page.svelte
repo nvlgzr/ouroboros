@@ -26,56 +26,67 @@
   import { setContext } from 'svelte';
 
   setContext('pageStuff', {
-    pageId: '52e29fd57cfe4e64a37457878cea851d',
-    title: '',
+    pageId: '60165d5f36904448b85b1c2dbb593409',
+    title: 'Belly Down',
     previous: '/malespero',
     next: '/vessel'
   });
 </script>
 
 <svelte:head>
-  <title />
+  <title>Belly Down</title>
 </svelte:head>
 
 <Cover coverURL={''} iconEmojiOrURL={'undefined'} />
 
-<Title />
+<Title>Belly Down</Title>
 
 <Code
-  code={`The man belly-down on the sidewalk
-Looks at first like a pile of rags
-They begin to resolve into a cloak, encrusted with scarves and plastic bags
-All of it is so thoroughly painted in the dusty residue of the city that it’s hard to tell where the hat ends and where the tangle of hair begins
-Two giant smudged mushrooms have pushed their way past the mess of cloth on the other end
-At a second glance, those are his feet
-His? Probably, but, now that you think on it, you can’t really tell
+  code={`The figure belly-down on the sidewalk
+  looks at first like a pile of rags
+But for a rusty fist asleep in the mouth
+  of a dark cloak, rustier still
+Clings an incrustation of scarves and plastic bags
+The dusty residues of the City have painted a coat
+Hair and hat fused, like the casements of the old house we bought
+At the other end of this jumbled heap
+	two smudged portobellos resolve into naked feet
+
 You call 911
-“Excuse me!” You shout at the operator’s behest, “Are you alright?”
-She said nothing about touching the creature, so you do nothing
-Dispatch will send someone out there
+“Excuse me!” You shout close to the head to compete
+  with construction down the street
+  and at the operator’s behest
+“Are you alright?”
+
+She said nothing about touching the creature
+	so you stand, suddenly uncomfortable in your new
+  soft-soled shoes
+
+Dispatch will send someone soon
 To discover a sculpture
 Heavy bolted
 Glued to the granite
 Each garment soaked in blade-resistant resin
 The corpse, cast from a live model
 Freckles painted on the feet 
-And if you put your cheek down near the pavement, you can just make out one staring blue eye
+And if you put your cheek down near the pavement
+  you can just make out a gaping blue eye
 There was much debate about what to do with it
 It made us all uncomfortable, but…
 
 There was no way to remove it without risk
 Of appearing to tear a destitute soul to literal pieces
 So it’s still there
-Waiting for us to make the actual problem
+Waiting for us to make the &lt;em&gt;actual&lt;/em&gt; problem
 Disappear
 
 ■`}
   language="plain text"
 /><Paragraph
   blockProps={{
-    pageId: '52e29fd57cfe4e64a37457878cea851d',
-    id: '075a6b7b-adc3-4a16-8f59-733835e1f2cd',
-    created_time: '2022-12-10T10:56:00.000Z',
-    last_edited_time: '2022-12-10T10:56:00.000Z'
+    pageId: '60165d5f36904448b85b1c2dbb593409',
+    id: 'c05bf142-8186-4edb-bef5-1f38d6ac6641',
+    created_time: '2022-12-13T22:33:00.000Z',
+    last_edited_time: '2022-12-13T22:33:00.000Z'
   }}
 />

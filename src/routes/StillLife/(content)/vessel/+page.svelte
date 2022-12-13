@@ -26,7 +26,7 @@
   import { setContext } from 'svelte';
 
   setContext('pageStuff', {
-    pageId: '812acdfd6e014471bddec888ca6106f8',
+    pageId: '1021237f45f04a5390b2c3954ba7ca05',
     title: 'Vessel',
     previous: '/bellydown',
     next: '/intimation'
@@ -60,16 +60,16 @@ Like the spirant sifting of blood
 Through a life-giving umbilical cord
 The cool edge of a glass
 She sank into the relief of it
-Tilted back slowly
-Tilted back slowly, slowly
-Slowly so slow the river arrived as a trickle
+The hand slow as an hour
+Her head tilted back slowly, slowly
+Slowly, so slow the river arrived as a trickle
 Mere drops, each right as rain
 Cold life spread thin along the ridges in her lips
 The tip of her tongue
 The water sank into her cheeks
 Like the first drops on parched soil
 Never reaching her throat
-He soaked her slowly
+He soaked her slow
 Until she could swallow
 She tried to picture herself
 And her savior
@@ -84,9 +84,9 @@ Face to face with the fireman
   language="plain text"
 /><Paragraph
   blockProps={{
-    pageId: '812acdfd6e014471bddec888ca6106f8',
-    id: '0a3d02fb-0aef-48de-91ea-faa11ccd4347',
-    created_time: '2022-12-10T11:13:00.000Z',
-    last_edited_time: '2022-12-10T11:13:00.000Z'
+    pageId: '1021237f45f04a5390b2c3954ba7ca05',
+    id: '735e7a0a-44d5-4ec4-b28d-81a466c12e00',
+    created_time: '2022-12-13T22:58:00.000Z',
+    last_edited_time: '2022-12-13T22:58:00.000Z'
   }}
 />
