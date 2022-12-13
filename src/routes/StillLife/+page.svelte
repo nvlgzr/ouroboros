@@ -43,9 +43,19 @@
 </vstack>
 
 <style>
+  ul {
+    padding: 0;
+  }
+  span {
+    min-width: 1.5rem;
+  }
+  span:last-of-type {
+    text-align: right;
+  }
   li {
     transform: skew(5deg, 5deg) !important;
     padding: 0.75rem;
+    margin: 0.5rem;
     display: flex;
   }
   a {
@@ -83,6 +93,7 @@
     pointer-events: none;
   }
   li:last-of-type {
+    /* more to come */
     color: hsl(169, 25%, 54%);
   }
   li:last-of-type::after {
@@ -96,11 +107,27 @@
   }
 
   @media (hover: none) {
+    li {
+      background-color: hsl(169, 25%, 93%);
+      border-radius: 0.25rem;
+    }
     li,
     a {
-      background-color: hsl(169, 25%, 93%);
-      padding: min(0.25rem, 0.5vw) 0.5rem;
-      border-radius: 0.25rem;
+      width: min(20rem, 60vw);
+    }
+    a::after {
+      /* Safari mobile has a weird bug where the dots don't get
+         rendered on some lines, so I'm just opting out on mobile */
+      background: none;
+    }
+    li:first-of-type,
+    li:last-of-type {
+      background: none;
+    }
+    li:last-of-type::after {
+      /* more to come */
+      background-image: none;
+      content: '…';
     }
   }
   .logo {
