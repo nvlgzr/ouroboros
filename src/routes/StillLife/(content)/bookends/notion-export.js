@@ -2,7 +2,7 @@ const json = {
   "object": "page",
   "id": "9be35416-30f7-4527-a2f5-06ac6dd19a34",
   "created_time": "2022-07-27T20:05:00.000Z",
-  "last_edited_time": "2022-12-10T00:41:00.000Z",
+  "last_edited_time": "2022-12-13T20:55:00.000Z",
   "created_by": {
     "object": "user",
     "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
@@ -19,6 +19,15 @@ const json = {
   },
   "archived": false,
   "properties": {
+    "prevPage": {
+      "id": "BHqW",
+      "type": "rollup",
+      "rollup": {
+        "type": "array",
+        "array": [],
+        "function": "show_original"
+      }
+    },
     "Public URL": {
       "id": "CBit",
       "type": "formula",
@@ -32,6 +41,38 @@ const json = {
       "type": "relation",
       "relation": [],
       "has_more": false
+    },
+    "nextPage": {
+      "id": "D%5CYc",
+      "type": "rollup",
+      "rollup": {
+        "type": "array",
+        "array": [
+          {
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "forgiveness",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "forgiveness",
+                "href": null
+              }
+            ]
+          }
+        ],
+        "function": "show_original"
+      }
     },
     "Status": {
       "id": "D%60yI",
@@ -106,7 +147,7 @@ const json = {
     "Last edited": {
       "id": "hs%5CU",
       "type": "last_edited_time",
-      "last_edited_time": "2022-12-10T00:41:00.000Z"
+      "last_edited_time": "2022-12-13T20:55:00.000Z"
     },
     "Created": {
       "id": "q%3A%7Dm",
@@ -194,7 +235,7 @@ const json = {
         "page_id": "9be35416-30f7-4527-a2f5-06ac6dd19a34"
       },
       "created_time": "2022-07-27T20:05:00.000Z",
-      "last_edited_time": "2022-11-17T04:14:00.000Z",
+      "last_edited_time": "2022-12-13T20:55:00.000Z",
       "created_by": {
         "object": "user",
         "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
@@ -281,7 +322,7 @@ const json = {
           {
             "type": "text",
             "text": {
-              "content": "\nAnd though your voice has slowly seeped\ninto the stories of every tome\nthey are no  more ",
+              "content": "\nAnd though your voice has slowly seeped\ninto the stories of every tome\nthey are no more ",
               "link": null
             },
             "annotations": {
@@ -292,7 +333,7 @@ const json = {
               "code": false,
               "color": "default"
             },
-            "plain_text": "\nAnd though your voice has slowly seeped\ninto the stories of every tome\nthey are no  more ",
+            "plain_text": "\nAnd though your voice has slowly seeped\ninto the stories of every tome\nthey are no more ",
             "href": null
           },
           {
@@ -315,7 +356,7 @@ const json = {
           {
             "type": "text",
             "text": {
-              "content": "\n\tthese tales and treasures\n\tencoded in intricate ink-\n\tsoaked pressure-tangled\n\tfibers of\tdead wood\n\tdead leather and glue\nthan bookends are ",
+              "content": "\n\tthese tales and treasures\n\tencoded in intricate ink-\n\tsoaked pressure-tangled\n\tfibers of dead wood\n\tdead leather and glue\nthan bookends are ",
               "link": null
             },
             "annotations": {
@@ -326,7 +367,7 @@ const json = {
               "code": false,
               "color": "default"
             },
-            "plain_text": "\n\tthese tales and treasures\n\tencoded in intricate ink-\n\tsoaked pressure-tangled\n\tfibers of\tdead wood\n\tdead leather and glue\nthan bookends are ",
+            "plain_text": "\n\tthese tales and treasures\n\tencoded in intricate ink-\n\tsoaked pressure-tangled\n\tfibers of dead wood\n\tdead leather and glue\nthan bookends are ",
             "href": null
           },
           {

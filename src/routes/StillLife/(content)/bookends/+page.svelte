@@ -68,11 +68,11 @@ Coffee stains, folded pulp, taped-up tears
 &lt;/em&gt;
 And though your voice has slowly seeped
 into the stories of every tome
-they are no  more &lt;em&gt;you&lt;/em&gt;
+they are no more &lt;em&gt;you&lt;/em&gt;
 	these tales and treasures
 	encoded in intricate ink-
 	soaked pressure-tangled
-	fibers of	dead wood
+	fibers of dead wood
 	dead leather and glue
 than bookends are &lt;em&gt;ends&lt;/em&gt;
 
