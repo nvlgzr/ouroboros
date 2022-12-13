@@ -26,37 +26,39 @@
   import { setContext } from 'svelte';
 
   setContext('pageStuff', {
-    pageId: '4166783ee4a644258d71fa8c1ee8e162',
-    title: 'malespero',
-    previous: '',
-    next: '/bellydown'
+    pageId: 'ad4a14ae6da44251bf616dcea014b314',
+    title: '⇋',
+    previous: '/folkbytheoakfedmepokeandscoke',
+    next: '/beached'
   });
 </script>
 
 <svelte:head>
-  <title>malespero</title>
+  <title>⇋</title>
 </svelte:head>
 
 <Cover coverURL={''} iconEmojiOrURL={'undefined'} />
 
-<Title>malespero</Title>
+<Title>⇋</Title>
 
 <Code
-  code={`Hope is an ember, you told me
-Waiting for a leaf, a twig, a light wind
-Hold onto hope and blow
-Set yourself on fire!
-I can’t, I said
-There’s nothing left of me to burn
-My heart is in ashes
+  code={`In the first place
+To lose your mind
+Is to lose a thing
+That never existed
+
+Is to lose a thing
+That never existed
+To lose your mind
+In the first place?
 
 ■`}
   language="plain text"
 /><Paragraph
   blockProps={{
-    pageId: '4166783ee4a644258d71fa8c1ee8e162',
-    id: 'cf2e2497-6f93-45a0-a164-bd4cc5ac43ec',
-    created_time: '2022-12-10T00:32:00.000Z',
-    last_edited_time: '2022-12-10T00:32:00.000Z'
+    pageId: 'ad4a14ae6da44251bf616dcea014b314',
+    id: '79f2a8df-e56e-41de-a46f-1d16a7bcabaf',
+    created_time: '2022-12-12T09:08:00.000Z',
+    last_edited_time: '2022-12-12T09:08:00.000Z'
   }}
 />

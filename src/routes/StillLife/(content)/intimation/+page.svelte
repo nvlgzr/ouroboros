@@ -26,37 +26,31 @@
   import { setContext } from 'svelte';
 
   setContext('pageStuff', {
-    pageId: '4166783ee4a644258d71fa8c1ee8e162',
-    title: 'malespero',
-    previous: '',
-    next: '/bellydown'
+    pageId: 'ccfaed6706b442a0b78a5721bed9c604',
+    title: 'I want to explore you to the bone',
+    previous: '/vessel',
+    next: '/folkbytheoakfedmepokeandscoke'
   });
 </script>
 
 <svelte:head>
-  <title>malespero</title>
+  <title>I want to explore you to the bone</title>
 </svelte:head>
 
 <Cover coverURL={''} iconEmojiOrURL={'undefined'} />
 
-<Title>malespero</Title>
+<Title>I want to explore you to the bone</Title>
 
 <Code
-  code={`Hope is an ember, you told me
-Waiting for a leaf, a twig, a light wind
-Hold onto hope and blow
-Set yourself on fire!
-I can’t, I said
-There’s nothing left of me to burn
-My heart is in ashes
+  code={`
 
 ■`}
   language="plain text"
 /><Paragraph
   blockProps={{
-    pageId: '4166783ee4a644258d71fa8c1ee8e162',
-    id: 'cf2e2497-6f93-45a0-a164-bd4cc5ac43ec',
-    created_time: '2022-12-10T00:32:00.000Z',
-    last_edited_time: '2022-12-10T00:32:00.000Z'
+    pageId: 'ccfaed6706b442a0b78a5721bed9c604',
+    id: '871cde46-300c-4055-b006-398a5fe9b5b5',
+    created_time: '2022-12-12T08:57:00.000Z',
+    last_edited_time: '2022-12-12T08:57:00.000Z'
   }}
 />

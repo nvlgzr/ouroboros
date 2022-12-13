@@ -1,8 +1,8 @@
 const json = {
   "object": "page",
-  "id": "4166783e-e4a6-4425-8d71-fa8c1ee8e162",
-  "created_time": "2022-12-10T00:32:00.000Z",
-  "last_edited_time": "2022-12-13T05:40:00.000Z",
+  "id": "ccfdfff1-5d83-4c31-81b6-d12ccf6fe41f",
+  "created_time": "2022-12-12T09:06:00.000Z",
+  "last_edited_time": "2022-12-13T05:44:00.000Z",
   "created_by": {
     "object": "user",
     "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
@@ -31,7 +31,7 @@ const json = {
               {
                 "type": "text",
                 "text": {
-                  "content": "forgiveness",
+                  "content": "intimation",
                   "link": null
                 },
                 "annotations": {
@@ -42,29 +42,7 @@ const json = {
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "forgiveness",
-                "href": null
-              }
-            ]
-          },
-          {
-            "type": "rich_text",
-            "rich_text": [
-              {
-                "type": "text",
-                "text": {
-                  "content": "forgiveness",
-                  "link": null
-                },
-                "annotations": {
-                  "bold": false,
-                  "italic": false,
-                  "strikethrough": false,
-                  "underline": false,
-                  "code": false,
-                  "color": "default"
-                },
-                "plain_text": "forgiveness",
+                "plain_text": "intimation",
                 "href": null
               }
             ]
@@ -78,7 +56,7 @@ const json = {
       "type": "formula",
       "formula": {
         "type": "string",
-        "string": "https://navelgazer.club/StillLife/malespero"
+        "string": "https://navelgazer.club/StillLife/folkbytheoakfedmepokeandscoke"
       }
     },
     "§previous": {
@@ -86,10 +64,7 @@ const json = {
       "type": "relation",
       "relation": [
         {
-          "id": "0e25af4c-4cd1-4c84-8517-5fad79af79b2"
-        },
-        {
-          "id": "0edcc205-aa97-4a3a-a4d6-bdefc804ba58"
+          "id": "ccfaed67-06b4-42a0-b78a-5721bed9c604"
         }
       ],
       "has_more": false
@@ -106,7 +81,7 @@ const json = {
               {
                 "type": "text",
                 "text": {
-                  "content": "bellydown",
+                  "content": "lastthingsfirst",
                   "link": null
                 },
                 "annotations": {
@@ -117,7 +92,7 @@ const json = {
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "bellydown",
+                "plain_text": "lastthingsfirst",
                 "href": null
               }
             ]
@@ -138,7 +113,11 @@ const json = {
     "Successful Read-throughs": {
       "id": "EB%7De",
       "type": "select",
-      "select": null
+      "select": {
+        "id": "flvn",
+        "name": "2 (aloud)",
+        "color": "brown"
+      }
     },
     "Path": {
       "id": "E_k%5E",
@@ -150,7 +129,7 @@ const json = {
       "type": "relation",
       "relation": [
         {
-          "id": "52e29fd5-7cfe-4e64-a374-57878cea851d"
+          "id": "ad4a14ae-6da4-4251-bf61-6dcea014b314"
         }
       ],
       "has_more": false
@@ -166,7 +145,7 @@ const json = {
       "type": "formula",
       "formula": {
         "type": "string",
-        "string": "/malespero"
+        "string": "/folkbytheoakfedmepokeandscoke"
       }
     },
     "§n2sLib": {
@@ -195,17 +174,21 @@ const json = {
     "Last edited": {
       "id": "hs%5CU",
       "type": "last_edited_time",
-      "last_edited_time": "2022-12-13T05:40:00.000Z"
+      "last_edited_time": "2022-12-13T05:44:00.000Z"
     },
     "Created": {
       "id": "q%3A%7Dm",
       "type": "created_time",
-      "created_time": "2022-12-10T00:32:00.000Z"
+      "created_time": "2022-12-12T09:06:00.000Z"
     },
     "Previous Draft": {
       "id": "qdTh",
       "type": "relation",
-      "relation": [],
+      "relation": [
+        {
+          "id": "85687429-384d-4202-8c77-51a7f414c620"
+        }
+      ],
       "has_more": false
     },
     "URL": {
@@ -223,7 +206,7 @@ const json = {
       "type": "formula",
       "formula": {
         "type": "string",
-        "string": "http://localhost:5173/StillLife/malespero"
+        "string": "http://localhost:5173/StillLife/folkbytheoakfedmepokeandscoke"
       }
     },
     "Page": {
@@ -233,7 +216,7 @@ const json = {
         {
           "type": "text",
           "text": {
-            "content": "malespero",
+            "content": "folkbytheoakfedmepokeandscoke",
             "link": null
           },
           "annotations": {
@@ -244,7 +227,7 @@ const json = {
             "code": false,
             "color": "default"
           },
-          "plain_text": "malespero",
+          "plain_text": "folkbytheoakfedmepokeandscoke",
           "href": null
         }
       ]
@@ -256,7 +239,7 @@ const json = {
         {
           "type": "text",
           "text": {
-            "content": "malespero",
+            "content": "Crone",
             "link": null
           },
           "annotations": {
@@ -267,23 +250,23 @@ const json = {
             "code": false,
             "color": "default"
           },
-          "plain_text": "malespero",
+          "plain_text": "Crone",
           "href": null
         }
       ]
     }
   },
-  "url": "https://www.notion.so/malespero-4166783ee4a644258d71fa8c1ee8e162",
+  "url": "https://www.notion.so/Crone-ccfdfff15d834c3181b6d12ccf6fe41f",
   "blocks": [
     {
       "object": "block",
-      "id": "ceb8e8b6-4b56-4826-a480-70d7eac73f59",
+      "id": "d93b514a-8df2-4948-9bb3-982795c69a4b",
       "parent": {
         "type": "page_id",
-        "page_id": "4166783e-e4a6-4425-8d71-fa8c1ee8e162"
+        "page_id": "ccfdfff1-5d83-4c31-81b6-d12ccf6fe41f"
       },
-      "created_time": "2022-12-10T00:32:00.000Z",
-      "last_edited_time": "2022-12-10T00:34:00.000Z",
+      "created_time": "2022-12-12T09:06:00.000Z",
+      "last_edited_time": "2022-12-12T09:14:00.000Z",
       "created_by": {
         "object": "user",
         "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"
@@ -302,7 +285,7 @@ const json = {
           {
             "type": "text",
             "text": {
-              "content": "Hope is an ember, you told me\nWaiting for a leaf, a twig, a light wind\nHold onto hope and blow\nSet yourself on fire!\nI can’t, I said\nThere’s nothing left of me to burn\nMy heart is in ashes\n\n■",
+              "content": "You will become everything\n  the old Gypsy croaked\nand *everyone!*\n  she smoked\nyou ever despised\n  I choked\nAnd that!\n  she invoked\nmy little froggy friend\n  she joked\nis how the spirits\n  she convoked\nwill lead you at last to\n…\n…\n\n…\n\n\n…\n\n\n  …\n\n  …\n  …\n  We soaked in the silence\n  I cleared my throat, provoked\n  She toked the dope slow\n  slooww sllooowww sllloooowwww\n  till my rage, unstoked\n  broke\n\nShe spoke\n  forgive it all\nMy future: uncloaked\n\n■",
               "link": null
             },
             "annotations": {
@@ -313,7 +296,7 @@ const json = {
               "code": false,
               "color": "default"
             },
-            "plain_text": "Hope is an ember, you told me\nWaiting for a leaf, a twig, a light wind\nHold onto hope and blow\nSet yourself on fire!\nI can’t, I said\nThere’s nothing left of me to burn\nMy heart is in ashes\n\n■",
+            "plain_text": "You will become everything\n  the old Gypsy croaked\nand *everyone!*\n  she smoked\nyou ever despised\n  I choked\nAnd that!\n  she invoked\nmy little froggy friend\n  she joked\nis how the spirits\n  she convoked\nwill lead you at last to\n…\n…\n\n…\n\n\n…\n\n\n  …\n\n  …\n  …\n  We soaked in the silence\n  I cleared my throat, provoked\n  She toked the dope slow\n  slooww sllooowww sllloooowwww\n  till my rage, unstoked\n  broke\n\nShe spoke\n  forgive it all\nMy future: uncloaked\n\n■",
             "href": null
           }
         ]
@@ -321,13 +304,13 @@ const json = {
     },
     {
       "object": "block",
-      "id": "cf2e2497-6f93-45a0-a164-bd4cc5ac43ec",
+      "id": "197f6ca8-dac6-4cee-9e1d-d95cde99d7a9",
       "parent": {
         "type": "page_id",
-        "page_id": "4166783e-e4a6-4425-8d71-fa8c1ee8e162"
+        "page_id": "ccfdfff1-5d83-4c31-81b6-d12ccf6fe41f"
       },
-      "created_time": "2022-12-10T00:32:00.000Z",
-      "last_edited_time": "2022-12-10T00:32:00.000Z",
+      "created_time": "2022-12-12T09:06:00.000Z",
+      "last_edited_time": "2022-12-12T09:06:00.000Z",
       "created_by": {
         "object": "user",
         "id": "9ba3d972-a756-4f33-82db-db0b87d6991d"

@@ -26,37 +26,67 @@
   import { setContext } from 'svelte';
 
   setContext('pageStuff', {
-    pageId: '4166783ee4a644258d71fa8c1ee8e162',
-    title: 'malespero',
-    previous: '',
-    next: '/bellydown'
+    pageId: '812acdfd6e014471bddec888ca6106f8',
+    title: 'Vessel',
+    previous: '/bellydown',
+    next: '/intimation'
   });
 </script>
 
 <svelte:head>
-  <title>malespero</title>
+  <title>Vessel</title>
 </svelte:head>
 
 <Cover coverURL={''} iconEmojiOrURL={'undefined'} />
 
-<Title>malespero</Title>
+<Title>Vessel</Title>
 
 <Code
-  code={`Hope is an ember, you told me
-Waiting for a leaf, a twig, a light wind
-Hold onto hope and blow
-Set yourself on fire!
-I can’t, I said
-There’s nothing left of me to burn
-My heart is in ashes
+  code={`She awoke in the dark
+Nothing visible except the knife-
+Cut cracking of her dust-dry throat
+A strong hand beneath her neck
+The warm arm cradling her like a father
+Carrying the sleeping toddler into the house
+The weight of her own legs
+Draped over his arm
+Annoyed her
+Made her feel safe
+To feel a hard thing
+Softer than steel
+Holding her in the blinding black space
+“Sfffffffffffffffffffffffff,” it whispered
+Like the spirant sifting of blood
+Through a life-giving umbilical cord
+The cool edge of a glass
+She sank into the relief of it
+Tilted back slowly
+Tilted back slowly, slowly
+Slowly so slow the river arrived as a trickle
+Mere drops, each right as rain
+Cold life spread thin along the ridges in her lips
+The tip of her tongue
+The water sank into her cheeks
+Like the first drops on parched soil
+Never reaching her throat
+He soaked her slowly
+Until she could swallow
+She tried to picture herself
+And her savior
+Captor?
+But the images slipped through her fingers
+Like a handful of clear mountain spring
+All she could see was herself
+A flame of pure, disembodied thirst
+Face to face with the fireman
 
 ■`}
   language="plain text"
 /><Paragraph
   blockProps={{
-    pageId: '4166783ee4a644258d71fa8c1ee8e162',
-    id: 'cf2e2497-6f93-45a0-a164-bd4cc5ac43ec',
-    created_time: '2022-12-10T00:32:00.000Z',
-    last_edited_time: '2022-12-10T00:32:00.000Z'
+    pageId: '812acdfd6e014471bddec888ca6106f8',
+    id: '0a3d02fb-0aef-48de-91ea-faa11ccd4347',
+    created_time: '2022-12-10T11:13:00.000Z',
+    last_edited_time: '2022-12-10T11:13:00.000Z'
   }}
 />

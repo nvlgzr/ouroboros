@@ -26,37 +26,66 @@
   import { setContext } from 'svelte';
 
   setContext('pageStuff', {
-    pageId: '4166783ee4a644258d71fa8c1ee8e162',
-    title: 'malespero',
-    previous: '',
-    next: '/bellydown'
+    pageId: 'ccfdfff15d834c3181b6d12ccf6fe41f',
+    title: 'Crone',
+    previous: '/intimation',
+    next: '/lastthingsfirst'
   });
 </script>
 
 <svelte:head>
-  <title>malespero</title>
+  <title>Crone</title>
 </svelte:head>
 
 <Cover coverURL={''} iconEmojiOrURL={'undefined'} />
 
-<Title>malespero</Title>
+<Title>Crone</Title>
 
 <Code
-  code={`Hope is an ember, you told me
-Waiting for a leaf, a twig, a light wind
-Hold onto hope and blow
-Set yourself on fire!
-I can’t, I said
-There’s nothing left of me to burn
-My heart is in ashes
+  code={`You will become everything
+  the old Gypsy croaked
+and *everyone!*
+  she smoked
+you ever despised
+  I choked
+And that!
+  she invoked
+my little froggy friend
+  she joked
+is how the spirits
+  she convoked
+will lead you at last to
+…
+…
+
+…
+
+
+…
+
+
+  …
+
+  …
+  …
+  We soaked in the silence
+  I cleared my throat, provoked
+  She toked the dope slow
+  slooww sllooowww sllloooowwww
+  till my rage, unstoked
+  broke
+
+She spoke
+  forgive it all
+My future: uncloaked
 
 ■`}
   language="plain text"
 /><Paragraph
   blockProps={{
-    pageId: '4166783ee4a644258d71fa8c1ee8e162',
-    id: 'cf2e2497-6f93-45a0-a164-bd4cc5ac43ec',
-    created_time: '2022-12-10T00:32:00.000Z',
-    last_edited_time: '2022-12-10T00:32:00.000Z'
+    pageId: 'ccfdfff15d834c3181b6d12ccf6fe41f',
+    id: '197f6ca8-dac6-4cee-9e1d-d95cde99d7a9',
+    created_time: '2022-12-12T09:06:00.000Z',
+    last_edited_time: '2022-12-12T09:06:00.000Z'
   }}
 />
