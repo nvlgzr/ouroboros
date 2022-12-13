@@ -11,16 +11,4 @@
 {/if}
 
 <style>
-  /* Go crazy! */
-  h1 {
-    color: hsl(120, 30%, 50%);
-  }
-
-  h2 {
-    color: hsl(180, 30%, 50%);
-  }
-
-  h3 {
-    color: hsl(200, 30%, 50%);
-  }
 </style>
