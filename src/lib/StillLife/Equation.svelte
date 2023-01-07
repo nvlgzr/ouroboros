@@ -4,11 +4,7 @@
   export let katexString = '';
   export let block = false;
 
-  $: html = render ? katex.renderToString(katexString, { displayMode: block }) : katexString;
-
-  let render = true;
-
-  const click = () => (render = !render);
+  $: html = katex.renderToString(katexString, { displayMode: block });
 </script>
 
 <svelte:head>
@@ -21,11 +17,11 @@
 </svelte:head>
 
 {#if block}
-  <div on:click={click}>
+  <div>
     {@html html}
   </div>
 {:else}
-  <span on:click={click}>
+  <span>
     {@html html}
   </span>
 {/if}
